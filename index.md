@@ -6,4 +6,4 @@ Faites-moi part de votre découverte lors de notre prochaine rencontre et je vou
 
 À bientôt !
 
-M la
+ML
