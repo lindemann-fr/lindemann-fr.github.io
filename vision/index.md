@@ -54,7 +54,7 @@ Ces lunettes arquées ont des verres gris et des branches très larges qui ne la
 ![Lunettes Décathlon Quechua MH-590](./img/MH-590.png)
 
 ##### Catégorie 3 non-polarisante: [Décathlon Van Rysel Roadr 500](https://www.decathlon.ch/fr/p/lunettes-de-velo-adulte-roadr-500-categorie-3-noires/_/R-p-181317?mc=8405401)
-Je possèdais déjà ces lunettes avant ma perte de vision. Bien que je les utilise désormais dans un tout autre contexte, elles sont suffisamment arquées pour filtrer la lumière venant de toutes les directions. Malheureusement, ces lunettes n'existent pas en version polarisante.
+Je possèdais déjà ces lunettes avant ma perte de vision. De teinte bleue, les verres altèrent les couleurs. Bien que je les utilise désormais dans un tout autre contexte, elles sont suffisamment arquées pour filtrer la lumière venant de toutes les directions. Malheureusement, ces lunettes n'existent pas en version polarisante.
 
 ![Lunettes Décathlon Van Rysel Roadr500](./img/Roadr-500.png)
 
