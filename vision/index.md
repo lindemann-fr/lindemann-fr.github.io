@@ -67,14 +67,17 @@ Selon les données du fabricant, toutes les références ci-dessous filtrent 100
 
 ##### Catégorie 4 polarisante ou non: [Décathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
 Ces lunettes arquées ont des verres gris et des branches très larges qui ne laissent passer aucune source de lumière latérale. Elles existent aussi en version non-polarisante.
+
 ![Lunettes Décathlon Quechua MH-590](./img/MH-590.png)
 
 ##### Catégorie 3 non-polarisante: [Décathlon Van Rysel Roadr 500](https://www.decathlon.ch/fr/p/lunettes-de-velo-adulte-roadr-500-categorie-3-noires/_/R-p-181317?mc=8405401)
 Je possèdais déjà ces lunettes avant ma perte de vision. De teinte bleue, les verres altèrent les couleurs. Bien que je les utilise désormais dans un tout autre contexte, elles sont suffisamment arquées pour filtrer la lumière venant de toutes les directions. Malheureusement, ces lunettes n'existent pas en version polarisante.
+
 ![Lunettes Décathlon Van Rysel Roadr500](./img/Roadr-500.png)
 
 ##### Catégorie 3 polarisante: [Décathlon Tribord 500](https://www.decathlon.ch/fr/p/lunettes-de-soleil-polarisees-flottantes-voile-adulte-500-taille-m-petrole/_/R-p-325360)
 Moins courbées et avec des branches moins larges, ces lunettes teintées en bleu sont un peu moins protectrices que les modèles précédents. Elles restent cependant un choix tout à fait convenable pour mon usage.
+
 ![Lunettes Tribord 500](./img/Tribord-500.png)
 
 ### Chapeau
@@ -93,11 +96,13 @@ Là aussi, ma sensibilité à la lumière rend appréciable l'écriture blanche 
 ### Cahier et stylos
 - Cahier de 200 pages noires [Black Paper Notebook](https://www.amazon.fr/dp/B0C1HWZ7N1) (je n'ai trouvé de tels cahiers que sur ce site de e-commerce)
 - Stylos à encre blanche [Gelly Roll par Sakura](https://www.amazon.fr/dp/B07DN9KRCJ) (j'ai découvert ces stylos dans une papeterie qui les vend moins cher que les boutiques en ligne)
+
 ![Cahier et stylos](./img/notebook-pens.png)
 
 
 ### Ardoise et crayons de craie
 Une alternative plus économique et plus écologique à la commande de cahiers est l'utilisation d'une [ardoise](https://www.jumbo.ch/fr/sejour-eclairage/accessoires-d-interieur/panneaux-d-affichage-tapis/ardoise-murale-woody/p/5996775) avec des [crayons de craie](https://www.jumbo.ch/fr/sejour-eclairage/papeterie/fournituresappareils-de-bureau/divers/3-craies-pour-jeux-de-carte/p/4210167) qui j'ai trouvés au rayon jeux et jouets de mon magasin. J'ai appris que ces crayons sont utilisés par les joueurs de cartes pour noter les scores.
+
 ![Ardoise et crayons de craie](./img/chalkboard-pens.png)
 
 
