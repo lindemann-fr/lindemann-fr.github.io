@@ -35,7 +35,7 @@ Cette section ne traite que de la protection contre l'éblouissement. Celle-ci e
 Ces verres filtrent entre 0% et 20% de la lumière. Ce sont en général des lunettes à visée esthétique qui ne permettent pas de se protéger efficacement du rayonnement ultra-violet en cas d'exposition à une luminosité solaire forte.
 
 ##### Catégorie 1
-Ces verres filtrent entre 20% et 57% de la lunière. Ils sont recommandés pour des situations d'ensoleillement atténué, comme par exemple en hiver ou par temps très gris. Cet indice n'est pas conseillé pour une exposition massive à de forts rayonnements du soleil.
+Ces verres filtrent entre 20% et 57% de la lumière. Ils sont recommandés pour des situations d'ensoleillement atténué, comme par exemple en hiver ou par temps très gris. Cet indice n'est pas conseillé pour une exposition massive à de forts rayonnements du soleil.
 
 ##### Catégorie 2
 Ces verres filtrent entre 57% et 82% de la lumière. Ils sont conseillés pour des situations d'ensoleillement moyen.
