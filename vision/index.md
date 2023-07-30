@@ -44,6 +44,8 @@ Ces verres filtrent entre 82% et 92% de la quantité de lumière. Ils sont effic
 ##### Catégorie 4
 Ces verres filtrent plus de 92% de la quantité de lumière. Ils sont indiquées en cas de luminosité solaire extrême comme par exemple pour l'alpinisme sur les glaciers ou en haute montagne car la luminosité est décuplée par la réverbération sur la glace et la neige.
 
+Attention: certains pays interdisent de conduire en portant des lunettes de catégorie 4.
+
 #### Couleur des verres
 Des verres teintés en gris atténueront la luminosité perçue sans altérer les couleurs.
 
@@ -77,6 +79,7 @@ Moins courbées et avec des branches moins larges, ces lunettes teintées en ble
 En complément des lunettes, porter un chapeau ou une casquette permet simplement mais efficacement de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires.
 
 ### Montre
+
 - Samsung Galaxy S4 classic
 --- Amoled screen with deep black and high contrast
 --- Watch face can be customized in a breeze
