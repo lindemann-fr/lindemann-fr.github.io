@@ -91,7 +91,7 @@ Profitant des soldes, je me suis équipé d'une [Samsung Galaxy Watch 4 Classic]
 - e-Reader with dark mode, note taking
 
 ## Informatique
-## Phone (Android)
+### Phone (Android)
 - Dark mode
 - Accessibilité
 - Google Keep (live transcription)
