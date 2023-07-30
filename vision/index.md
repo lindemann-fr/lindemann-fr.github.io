@@ -81,7 +81,7 @@ Moins courbées et avec des branches moins larges, ces lunettes teintées en ble
 ![Lunettes Tribord 500](./img/Tribord-500.png)
 
 ### Chapeau
-En complément des lunettes, porter un chapeau ou une casquette permet simplement mais efficacement de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires. Il existe même des [casquettes adaptées](https://notchgear.com/) au port de lunettes de grande taille:
+En complément des lunettes, porter un chapeau ou une casquette permet simplement mais efficacement de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires. Je porte depuis des années, et au grand désarroi de mon épouse, une casquette tout à fait banale en l'honneur d´une équipe de sport que je supporte, toutefois, il existe des [casquettes adaptées](https://notchgear.com/) au port de lunettes de grande taille:
 
 ![Casquette Notchgear](./img/notchgear-hat.jpg)
 
