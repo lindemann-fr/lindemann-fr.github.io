@@ -10,7 +10,7 @@ Moins de deux mois après la fin du traitement, j'avais récupéré la majorité
 
 Aujourd'hui, seule ma sensibilité à la lumière et aux contrastes est toujours déficiente. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs et j'ai des difficultés à distinguer les faibles contrastes, comme mon téléphone noir posé sur une surface noire, par exemple.
 
-Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/), j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à celles et ceux qui connaissent la même hypersensibilité à la lumière mais n'ont pas eu la chance d'être accompagnés et conseillés comme j'ai pu l'être.
+Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/), j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à celles et ceux qui connaissent la même hypersensibilité à la lumière mais n'ont pas eu la chance d'être accompagnés et conseillés comme je l'ai été.
 
 ## Remarque sur les liens "commerciaux¨
 Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour identifier sans équivoque les objets dont je parle, au cas où un lecteur de cette page serait aujourd´hui dans la situation qui était la mienne à la sortie de l'hôpital.
