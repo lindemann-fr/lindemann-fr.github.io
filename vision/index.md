@@ -81,7 +81,9 @@ Moins courbées et avec des branches moins larges, ces lunettes teintées en ble
 ![Lunettes Tribord 500](./img/Tribord-500.png)
 
 ### Chapeau
-En complément des lunettes, porter un chapeau ou une casquette permet simplement mais efficacement de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires.
+En complément des lunettes, porter un chapeau ou une casquette permet simplement mais efficacement de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires. Il existe même des casquettes adaptées au port de lunettes de grande taille:
+
+![Casquette Notchgear](./img/notchgear-hat.png)
 
 ### Montre
 Entre éblouissement dès que je suis en extérieur et difficultés à distinguer les faibles contrastes, j'ai dû mettre de côté la montre qui m'accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d'un écran [AMOLED](https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente_organique#Avantages) dont le principal atout est d'afficher à la fois des noirs profonds et des couleurs intenses. Ces éléments permettent un contraste important et donc une lecture confortable même en plein soleil.
