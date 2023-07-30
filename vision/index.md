@@ -90,12 +90,12 @@ Je me suis ainsi équipé d'une [Samsung Galaxy Watch 4 Classic](https://www.sam
 ## Prise de notes
 ### Cahier et stylos
 Là aussi, ma sensibilité à la lumière rend appréciable l'écriture blanche sur fond noir. Voici donc les références que j'utilise actuellement:
-- Cahier de 200 pages noires [Black Paper Notebook](https://www.amazon.fr/dp/B0C1HWZ7N1)
-- Stylos à encre blanche [Gelly Roll par Sakura](https://www.amazon.fr/dp/B07DN9KRCJ) (note: je les ai trouvés dans une papetrie qui les vend moins cher que les boutiques en ligne)
+- Cahier de 200 pages noires [Black Paper Notebook](https://www.amazon.fr/dp/B0C1HWZ7N1) (je n'ai trouvé de tels cahiers que sur ce site de e-commerce)
+- Stylos à encre blanche [Gelly Roll par Sakura](https://www.amazon.fr/dp/B07DN9KRCJ) (j'ai découvert ces stylos dans une papeterie qui les vend moins cher que les boutiques en ligne)
 ![Cahier et stylos](./img/notebook-pens.png)
 
-### Black board + chalk pens
-Lorem ipsum
+### Ardoise métallique et crayons de craie
+Une alternative plus économique et plus écologique à la commande de cahier 
 
 ### e-Reader with dark mode, note taking
 Lorem ipsum
