@@ -24,18 +24,17 @@ Heureusement, grâce aux équipes du CHUV et de l'[hôpital ophtalmique Jules Go
 --- Amoled screen with deep black and high contrast
 --- Watch face can be customized in a breeze
 
-## Lecture
+## Écriture
 - Notebook + white pens
 - Black board + chalk pens
 - e-Reader with dark mode, note taking
 
-## Écriture
-
+## Informatique
 ## Phone (Android)
 - Dark mode
+- Accessibilité
 - Google Keep (live transcription)
 
-## Informatique
 ### Computer
 - Linux is way more customizable than WIndows (I don't know Mac)
 - Theme: Greybird-dark-accessibility
