@@ -8,7 +8,7 @@ Moins de deux mois après la fin du traitement, j'avais récupéré la majorité
 * le champ visuel,
 * la perception des couleurs, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n'est pas sans ironie pour un résident suisse.
 
-Aujourd'hui, seule ma sensibilité à la lumière et aux contrastes est toujours défectuese. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant et j'ai des difficultés à distinguer les faibles contrastes, comme mon téléphone noir posé sur une surface noire.
+Aujourd'hui, seule ma sensibilité à la lumière et aux contrastes est toujours défectueuse. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant et j'ai des difficultés à distinguer les faibles contrastes, comme mon téléphone noir posé sur une surface noire.
 
 Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/) de Lausanne, j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à celles et ceux qui n'ont peut-être pas eu la chance d'être aussi bien accompagné ni de recevoir de tels conseils.
 
