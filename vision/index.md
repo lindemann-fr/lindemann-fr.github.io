@@ -51,7 +51,7 @@ Attention: certains pays interdisent de conduire en portant des lunettes de cat�
 #### Couleur des verres
 Des verres teintés en gris atténueront la luminosité perçue sans altérer les couleurs.
 
-Au contraire, des verres bleus, marrons ou de toute autre couleur, modifieront les couleurs perçues.
+Au contraire, des verres bleus, marrons ou de toute autre couleur, modifieront la perception des couleurs.
 
 #### Polarisation des verres
 Des verres polarisants aident à améliorer le contraste. La page Wikipedia sur la [Polarisation_(optique)](https://fr.wikipedia.org/wiki/Polarisation_(optique)#Dans_la_vie_de_tous_les_jours) explique ce phénomène.
@@ -81,9 +81,9 @@ Moins courbées et avec des branches moins larges, ces lunettes teintées en ble
 En complément des lunettes, porter un chapeau ou une casquette permet simplement mais efficacement de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires.
 
 ### Montre
-Entre éblouissement dès que je suis en extérieur et difficultés à distinguer les faibles contrastes, j'ai dû mettre au placard la montre qui m'accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d'un écran [AMOLED](https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente_organique#Avantages) capable d'afficher à la fois des noirs profonds et des couleurs intenses. Ces éléments permettent un contraste important et donc une lecture confortable même en plein soleil.
+Entre éblouissement dès que je suis en extérieur et difficultés à distinguer les faibles contrastes, j'ai dû mettre de côté la montre qui m'accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d'un écran [AMOLED](https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente_organique#Avantages) dont le principal atout est d'afficher à la fois des noirs profonds et des couleurs intenses. Ces éléments permettent un contraste important et donc une lecture confortable même en plein soleil.
 
-Profitant des soldes, je me suis équipé d'une [Samsung Galaxy Watch 4 Classic](https://www.samsung.com/fr/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r890nzkaxef/). En me contentant de l'utiliser pour afficher l'heure, mon agenda et le nombre de pas effectués dans la journée, la batterie dure au moins deux jours. Le plus important à mes yeux est cependant la facilité avec laquelle il est possible de personnaliser l'écran. J'ai ainsi pu modifier en 10 minutes un des modèles de cadran pré-installé pour le passer en texte blanc sur fond noir et remplacer quelques informations peu utiles par d'autres qui le sont davantage (un second fuseau horaire, dans mon cas).
+Je me suis ainsi équipé d'une [Samsung Galaxy Watch 4 Classic](https://www.samsung.com/fr/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r890nzkaxef/). En me contentant de l'utiliser pour afficher l'heure, mon agenda et le nombre de pas effectués dans la journée, la batterie dure deux jours ou plus. Le plus important à mes yeux est cependant la facilité avec laquelle il est possible de personnaliser l'écran. J'ai ainsi pu modifier en 10 minutes un des modèles de cadran pré-installé pour le passer en texte blanc sur fond noir et remplacer quelques informations peu utiles par d'autres qui le sont davantage (un second fuseau horaire, dans mon cas).
 
 ![Samsung Galaxy Watch 4 Classic](./img/galaxy-watch.png)
 
