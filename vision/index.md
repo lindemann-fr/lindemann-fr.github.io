@@ -12,6 +12,11 @@ Aujourd'hui, seule ma sensibilité à la lumière et aux contrastes est toujours
 
 Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/) de Lausanne, j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à celles et ceux qui connaissent la même hypersensibilité à la lumière mais n'ont pas eu la chance d'être accompagné et conseillé comme j'ai pu l'être.
 
+## Remarque sur les liens "commerciaux¨
+Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour vous aider à identifier les références exactes dont je parle, au cas où vous seriez aujourd´hui dans la situation qui était la mienne à la sortie de l'hopital.
+
+Enfin, sauf mention contraire, j'utilise moi-même les références que je présente. Je préfère garder sous silence les produits que j'ai essayés puis abandonnés.
+
 ## Vêtements et accessoires
 ### Lunettes
 #### Teinte des verres [sources: [#1](https://www.visilab.ch/fr/votre-vision/verres-solaires), [#2](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Lunettes-de-soleil)]
@@ -49,7 +54,7 @@ Afin de limiter l'éblouissement par des sources lumineuses situées à la péri
 En l'état actuel de ma sensibilité à la lumière, je porte le plus souvent des verres polarisants de catégorie 4 en extérieur et des verres non polarisants de catégorie 3 en intérieur. Lorsque je peux totalement controler la luminosité de mon environnement, comme par exemple la pièce qui me sert de bureau en télétravail, je peux même mettre mes anciennes lunettes de vue non teintées et non polarisantes.
 
 #### Références
-Toutes les références ci-dessous filtres 100% des UV.
+Toutes les références ci-dessous filtrent 100% des UV nocifs.
 
 ##### Catégorie 4 polarisante ou non: [Décathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
 Ces lunettes arquées ont des verres gris et des branches très larges qui ne laissent passer aucune source de lumière latérale. Elles existent aussi en version non-polarisante.
