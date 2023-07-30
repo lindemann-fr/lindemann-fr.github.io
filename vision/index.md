@@ -18,7 +18,12 @@ Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que j
 Enfin, sauf mention contraire, j'utilise moi-même les références que je présente. Je préfère garder sous silence les produits que j'ai essayés mais qui ne m'ont pas donné satisfaction.
 
 ## Vêtements et accessoires
-### Lunettes
+### Lunettes de soleil
+Pour les personnes hypersensibiles à la lumière, porter des lunettes de soleil appropriées change considérablement la qualité de vie. D'après mes recherches et mon expérience, le choix des lunettes repose sur les éléments suivants:
+1. la teinte des verres, plus ou moins foncée
+2. la polarisation des verres
+3. la géométrie de la monture: courbure et épaisseur des branches
+
 #### Teinte des verres [sources: [#1](https://www.visilab.ch/fr/votre-vision/verres-solaires), [#2](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Lunettes-de-soleil)]
 Il faut distinguer protection contre l'éblouissement et protection contre les rayons UV. En effet, des verres très sombres, c'est-à-dire très efficaces contre l'éblouissement, ne protègeront pas nécessairement contre les UV. Inversement, des verres transparents traités peuvent très bien filtrer les UV solaires à 100 % mais ne pas protéger contre l'éblouissement.
 
