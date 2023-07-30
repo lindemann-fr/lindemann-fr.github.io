@@ -58,11 +58,11 @@ Je possèdais déjà ces lunettes avant ma perte de vision. De teinte bleue, les
 ![Lunettes Décathlon Van Rysel Roadr500](./img/Roadr-500.png)
 
 ##### Catégorie 3 polarisante: [Décathlon Tribord 500](https://www.decathlon.ch/fr/p/lunettes-de-soleil-polarisees-flottantes-voile-adulte-500-taille-m-petrole/_/R-p-325360)
-Moins courbées et avec des branches moins larges, ces lunettes teintées en bleu sont moins protectrices que les modèles précédents.
+Moins courbées et avec des branches moins larges, ces lunettes teintées en bleu sont un peu moins protectrices que les modèles précédents. Elles restent cependant un choix tout à fait convenable pour mon usage.
 ![Lunettes Tribord 500](./img/Tribord-500.png)
 
 ### Chapeau
-- Hat
+Un autre moyen de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires, est de porter un chapeau. Simple mais efficace.
 
 ### Montre
 - Samsung Galaxy S4 classic
