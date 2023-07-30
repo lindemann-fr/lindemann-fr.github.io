@@ -1,4 +1,4 @@
-cathl# Vision
+# Vision
 
 ## Contexte
 En mai 2023, j'ai fait une réaction auto-immune appelée [ADEM](https://fr.wikipedia.org/wiki/Enc%C3%A9phalomy%C3%A9lite_aigu%C3%AB_diss%C3%A9min%C3%A9e) qui m'a temporairement fait perdre la vue. J'ai heureusement eu la chance d'être remarquablement pris en charge par les équipes du [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) de Lausanne.
