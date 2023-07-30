@@ -19,7 +19,7 @@ Enfin, sauf mention contraire, j'utilise moi-même les références que je prés
 
 ## Vêtements et accessoires
 ### Lunettes de soleil
-Étant hypersensible à la lumière, porter des lunettes de soleil appropriées a considérablement amélioré ma qualité de vie. D'après mes discussions avec les ergothérapeutes et les opticiens spécialisés, le choix des lunettes capables de soulager l'hypersensibilité repose sur les éléments suivants:
+Étant hypersensible à la lumière, porter des lunettes de soleil appropriées a considérablement amélioré ma qualité de vie. D'après mes discussions avec des ergothérapeutes et des opticiens spécialisés, le choix des lunettes capables de soulager l'hypersensibilité repose sur les éléments suivants:
 1. la teinte des verres, plus ou moins foncée
 2. la polarisation des verres
 3. la géométrie de la monture: courbure et épaisseur des branches
@@ -57,7 +57,7 @@ Au contraire, des verres bleus, marrons ou de toute autre couleur, modifieront l
 Des verres polarisants aident à améliorer le contraste. La page Wikipedia sur la [Polarisation_(optique)](https://fr.wikipedia.org/wiki/Polarisation_(optique)#Dans_la_vie_de_tous_les_jours) explique ce phénomène.
 
 #### Monture
-Afin de limiter l'éblouissement par des sources lumineuses situées à la périphérie du champ visuel, mon opticien recommande des montures arquées avec des branches épaisses, voire même des panneaux latéraux pour limiter l'éblouissement par le coté.
+Afin de limiter l'éblouissement par des sources lumineuses situées à la périphérie du champ visuel, il est recommandé de choisir des montures arquées avec des branches épaisses, voire même des panneaux latéraux pour limiter l'éblouissement par le coté.
 
 #### Conclusion
 En l'état actuel de ma sensibilité à la lumière, je porte le plus souvent des verres polarisants de catégorie 4 en extérieur et des verres non polarisants de catégorie 3 en intérieur. Lorsque je peux totalement controler la luminosité de mon environnement, comme par exemple la pièce qui me sert de bureau en télétravail, je peux même mettre mes anciennes lunettes de vue non teintées et non polarisantes.
