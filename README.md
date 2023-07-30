@@ -1,3 +1,3 @@
 # Lindemann.fr
 
-This is a static site for the domain Lindemann.fr.
+Ceci est un site minimaliste pour le domaine Lindemann.fr.
