@@ -94,8 +94,10 @@ Là aussi, ma sensibilité à la lumière rend appréciable l'écriture blanche 
 - Stylos à encre blanche [Gelly Roll par Sakura](https://www.amazon.fr/dp/B07DN9KRCJ) (j'ai découvert ces stylos dans une papeterie qui les vend moins cher que les boutiques en ligne)
 ![Cahier et stylos](./img/notebook-pens.png)
 
-### Ardoise métallique et crayons de craie
-Une alternative plus économique et plus écologique à la commande de cahier 
+### Ardoise et crayons de craie
+Une alternative plus économique et plus écologique à la commande de cahiers est l'utilisation d'une [ardoise](https://www.jumbo.ch/fr/sejour-eclairage/accessoires-d-interieur/panneaux-d-affichage-tapis/ardoise-murale-woody/p/5996775) avec des [crayons de craie](https://www.jumbo.ch/fr/sejour-eclairage/papeterie/fournituresappareils-de-bureau/divers/3-craies-pour-jeux-de-carte/p/4210167) qui j'ai trouvés au rayon jeux et jouets de mon magasin. J'ai appris que ces crayons sont utilisés par les joueurs de cartes pour noter les scores.
+![Ardoise et crayons de craie](./img/chalkboard-pens.png)
+
 
 ### e-Reader with dark mode, note taking
 Lorem ipsum
