@@ -19,7 +19,7 @@ Enfin, sauf mention contraire, j'utilise moi-même les références que je prés
 
 ## Vêtements et accessoires
 ### Lunettes de soleil
-Pour les personnes hypersensibiles à la lumière, porter des lunettes de soleil appropriées change considérablement la qualité de vie. D'après mes recherches et mon expérience, le choix des lunettes repose sur les éléments suivants:
+Étant hypersensible à la lumière, porter des lunettes de soleil appropriées a considérablement amélioré ma qualité de vie. D'après mes discussions avec les ergothérapeutes et les opticiens spécialisés, le choix des lunettes capables de soulager l'hypersensibilité repose sur les éléments suivants:
 1. la teinte des verres, plus ou moins foncée
 2. la polarisation des verres
 3. la géométrie de la monture: courbure et épaisseur des branches
