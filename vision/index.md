@@ -79,10 +79,10 @@ Moins courbées et avec des branches moins larges, ces lunettes teintées en ble
 En complément des lunettes, porter un chapeau ou une casquette permet simplement mais efficacement de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires.
 
 ### Montre
+Entre éblouissement dès que je suis en extérieur et difficultés à distinguer les faibles contrastes, j'ai dû mettre au placard la montre qui m'accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d'un écran [AMOLED](https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente_organique#Avantages) capable d'afficher à la fois des noirs profonds et des couleurs intenses. Ces éléments permettent une lecture confortable même en plein soleil.
 
-- Samsung Galaxy S4 classic
---- Amoled screen with deep black and high contrast
---- Watch face can be customized in a breeze
+Profitant des soldes, je possède depuis plusieurs mois une montre [Samsung Galaxy Watch 4 Classic](https://www.samsung.com/fr/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r890nzkaxef/).
+![Samsung Galaxy Watch 4 Classic](./img/galaxy-watch.png)
 
 ## Écriture
 - Notebook + white pens
