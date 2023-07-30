@@ -22,7 +22,7 @@ Enfin, sauf mention contraire, j'utilise moi-même les références que je prés
 #### Teinte des verres [sources: [#1](https://www.visilab.ch/fr/votre-vision/verres-solaires), [#2](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Lunettes-de-soleil)]
 Il faut distinguer protection contre l'éblouissement et protection contre les rayons UV. En effet, des verres très sombres, c'est-à-dire très efficaces contre l'éblouissement, ne protègeront pas nécessairement contre les UV. Inversement, des verres transparents traités peuvent très bien filtrer les UV solaires à 100 % mais ne pas protéger contre l'éblouissement.
 
-Cette section ne traite que de la protection contre l'éblouissement. Celle-ci est codifiée par un texte de loi européen. Un chiffre de 0 à 4 indiquant le degré de protection contre l'éblouissement est indiqué dans le descriptif de chaque paire de lunettes de soleil.
+Cette section ne traite que de la protection contre l'éblouissement. Celle-ci est codifiée par [un texte de loi européen](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0425). Un chiffre de 0 à 4 indiquant le degré de protection contre l'éblouissement est indiqué dans le descriptif de chaque paire de lunettes de soleil.
 
 ##### Catégorie 0
 Ces verres filtrent entre 0% et 20% de la quantité de lumière. Ce sont en général des lunettes à visée esthétique qui ne permettent pas de se protéger efficacement du rayonnement ultra-violet en cas d'exposition à une luminosité solaire forte.
