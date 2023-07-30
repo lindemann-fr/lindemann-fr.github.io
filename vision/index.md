@@ -62,7 +62,7 @@ Moins courbées et avec des branches moins larges, ces lunettes teintées en ble
 ![Lunettes Tribord 500](./img/Tribord-500.png)
 
 ### Chapeau
-Un autre moyen de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires, est de porter un chapeau. Simple mais efficace.
+En complément des lunettes, porter un chapeau ou une casquette permet simplement mais efficacement de limiter l'éblouissement par des sources périphériques hautes telles que le soleil ou des lampadaires.
 
 ### Montre
 - Samsung Galaxy S4 classic
