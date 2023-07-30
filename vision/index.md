@@ -33,7 +33,7 @@ Ces verres filtrent entre 20% et 57% de la quantité de lunière. Ils sont recom
 ##### Catégorie 2
 Ces verres filtrent entre 57% et 82% de la quantite de lumière. Ils sont conseillés pour des situations d'ensoleillement moyen.
 
-#### Catégorie 3
+##### Catégorie 3
 Ces verres filtrent entre 82% et 92% de la quantité de lumière. Ils sont efficaces dans des situations de forte luminosité solaire : à la mer, à la plage, ou pour les sports d'hiver.
 
 ##### Catégorie 4
