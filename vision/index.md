@@ -114,6 +114,8 @@ Il existe de plus en plus de liseuses permettant non seulement de lire mais auss
 
 J'ai finalement choisi la Kindle Scribe pour des raisons toutes personnelles: je connaissais déjà les produits Kindle alors que je n'ai pas pu essayer la Kobo Elipsa 2E ni la Tab Ultra C. Par ailleurs, ma liseuse précédente étant une Kindle Paperwhite, ma bibliothèque était donc déjà en grande partie compatible avec l'écosystème Kindle. De plus, j'étais toujours très satisfait de cette liseuse que j'avais pourtant utilisée intensivement depuis 2015, son seul défaut à mes (nouveaux) yeux étant de ne pas offrir de lecture en mode sombre. Enfin, la Scribe était en solde au moment où je faisais mon étude de marché; cela lui offrait ainsi un rapport qualité prix temporaire imbattable à court terme.
 
+N'ayant pu tester la Kobo Elipsa 2E ni l'Onyx Boox Tab Ultra C, je ne suis malheureusement pas en mesure de me prononcer sur leurs avantages et inconvénients respectifs, au delà de ce que j'ai pu lire sur internet.
+
 ## Informatique [à rédiger...]
 ### Phone
 - Samsung pour écran AMOLED et Android pour la personnalisation
