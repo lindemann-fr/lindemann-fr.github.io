@@ -1,4 +1,4 @@
-# Vision
+cathl# Vision
 
 ## Contexte
 En mai 2023, j'ai fait une réaction auto-immune appelée [ADEM](https://fr.wikipedia.org/wiki/Enc%C3%A9phalomy%C3%A9lite_aigu%C3%AB_diss%C3%A9min%C3%A9e) qui m'a temporairement fait perdre la vue. J'ai heureusement eu la chance d'être remarquablement pris en charge par les équipes du [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) de Lausanne.
@@ -49,7 +49,14 @@ Afin de limiter l'éblouissement par des sources lumineuses situées à la péri
 En l'état actuel de ma sensibilité à la lumière, je porte le plus souvent des verres polarisants de catégorie 4 en extérieur et des verres non polarisants de catégorie 3 en intérieur. Lorsque je peux totalement controler la luminosité de mon environnement, comme par exemple la pièce qui me sert de bureau en télétravail, je peux même mettre mes anciennes lunettes de vue non teintées et non polarisantes.
 
 #### Références
-##### Catégorie 4 polarisante: [Décathlon MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
+##### Catégorie 4 polarisante: [Décathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
+Ces lunettes arquées ont des verres gris et des branches très larges qui ne laissent passer aucune source de lumière latérale. Elles existent aussi en version non-polarisante.
+![Lunettes Décathlon Quechua MH-590](./img/MH-590.png)
+
+##### Catégorie 3 non-polarisante: [Décathlon Van Rysel Roadr 500](https://www.decathlon.ch/fr/p/lunettes-de-velo-adulte-roadr-500-categorie-3-noires/_/R-p-181317?mc=8405401)
+Je possèdais déjà ces lunettes avant ma perte de vision. Bien que je les utilise désormais dans un tout autre contexte, elles sont suffisamment arquées pour filtrer la lumière venant de toutes les directions. Malheureusement, ces lunettes n'existent pas en version polarisante.
+
+![Lunettes Décathlon Van Rysel Roadr500](./img/Roadr-500.png)
 
 ### Chapeau
 - Hat
