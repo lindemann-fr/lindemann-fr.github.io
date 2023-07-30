@@ -10,11 +10,46 @@ Moins de deux mois après la fin du traitement, j'avais récupéré la majorité
 
 Aujourd'hui, seule ma sensibilité à la lumière et aux contrastes est toujours défectueuse. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant et j'ai des difficultés à distinguer les faibles contrastes, comme mon téléphone noir posé sur une surface noire.
 
-Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/) de Lausanne, j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à celles et ceux qui n'ont peut-être pas eu la chance d'être aussi bien accompagné ni de recevoir de tels conseils.
+Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/) de Lausanne, j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à celles et ceux qui connaissent la même hypersensibilité à la lumière mais n'ont pas eu la chance d'être accompagné et conseillé comme j'ai pu l'être.
 
 ## Vêtements et accessoires
 ### Lunettes
-- Sun glasses cat 3 or 4 with polarization
+#### Teinte des verres [sources: [#1](https://www.visilab.ch/fr/votre-vision/verres-solaires), [#2](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Lunettes-de-soleil)]
+Il faut distinguer protection contre l'éblouissement et protection contre les rayons UV. En effet, des verres très sombres, c'est-à-dire très efficaces contre l'éblouissement, ne protègeront pas nécessairement contre les UV. Inversement, des verres transparents traités peuvent très bien filtrer les UV solaires à 100 % mais ne pas protéger contre l'éblouissement.
+
+Cette section ne traite que de la protection contre l'éblouissement. Celle-ci est codifiée par un texte de loi européen. Un chiffre de 0 à 4 indiquant le degré de protection contre l'éblouissement est indiqué dans le descriptif de chaque paire de lunettes de soleil.
+
+##### Catégorie 0
+Ces verres filtrent entre 0% et 20% de la quantité de lumière. Ce sont en général des lunettes à visée esthétique qui ne permettent pas de se protéger efficacement du rayonnement ultra-violet en cas d'exposition à une luminosité solaire forte.
+
+##### Catégorie 1
+Ces verres filtrent entre 20% et 57% de la quantité de lunière. Ils sont recommandés pour des situations d'ensoleillement atténué, comme par exemple en hiver ou par temps très gris. Cet indice n'est pas conseillé pour une exposition massive à de forts rayonnements du soleil.
+
+##### Catégorie 2
+Ces verres filtrent entre 57% et 82% de la quantite de lumière. Ils sont conseillés pour des situations d'ensoleillement moyen.
+
+#### Catégorie 3
+Ces verres filtrent entre 82% et 92% de la quantité de lumière. Ils sont efficaces dans des situations de forte luminosité solaire : à la mer, à la plage, ou pour les sports d'hiver.
+
+##### Catégorie 4
+Ces verres filtrent plus de 92% de la quantité de lumière. Ils sont indiquées en cas de luminosité solaire extrême comme par exemple pour l'alpinisme sur les glaciers ou en haute montagne car la luminosité est décuplée par la réverbération sur la glace et la neige.
+
+#### Couleur des verres
+Des verres teintés en gris atténueront la luminosité perçue sans altérer les couleurs.
+
+Au contraire, des verres bleus, marrons ou de toute autre couleur, modifieront les couleurs perçues.
+
+#### Polarisation des verres
+Des verres polarisants aident à améliorer le contraste. La page Wikipedia sur la [Polarisation_(optique)](https://fr.wikipedia.org/wiki/Polarisation_(optique)#Dans_la_vie_de_tous_les_jours) explique ce phénomène.
+
+#### Monture
+Afin de limiter l'éblouissement par des sources lumineuses situées à la périphérie du champ visuel, mon opticien recommande des montures arquées avec des branches épaisses, voire même des panneaux latéraux pour limiter l'éblouissement par le coté.
+
+#### Conclusion
+En l'état actuel de ma sensibilité à la lumière, je porte le plus souvent des verres polarisants de catégorie 4 en extérieur et des verres non polarisants de catégorie 3 en intérieur. Lorsque je peux totalement controler la luminosité de mon environnement, comme par exemple la pièce qui me sert de bureau en télétravail, je peux même mettre mes anciennes lunettes de vue non teintées et non polarisantes.
+
+#### Références
+##### Catégorie 4 polarisante: [Décathlon MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
 
 ### Chapeau
 - Hat
