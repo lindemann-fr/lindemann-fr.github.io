@@ -15,7 +15,7 @@ Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Go
 ## Remarque sur les liens "commerciaux¨
 Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour vous aider à identifier les références exactes dont je parle, au cas où vous seriez aujourd´hui dans la situation qui était la mienne à la sortie de l'hôpital.
 
-Enfin, sauf mention contraire, j'utilise moi-même les références que je présente. Je préfère garder sous silence les produits que j'ai essayés puis abandonnés.
+Enfin, sauf mention contraire, j'utilise moi-même les références que je présente. Je préfère garder sous silence les produits que j'ai essayés mais qui ne m'ont pas donné satisfaction.
 
 ## Vêtements et accessoires
 ### Lunettes
