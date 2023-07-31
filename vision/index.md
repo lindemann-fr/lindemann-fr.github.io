@@ -11,13 +11,18 @@ Moins de deux mois après la fin du traitement, j'avais récupéré la majorité
 * le **champ visuel**,
 * la **perception des couleurs**, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n'est pas sans ironie pour un résident suisse.
 
-Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs ou aux couleurs saturées, par exemple les pages d'un livre ou les néons des magasins, et j'ai des difficultés à repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple.
-
-Le montage ci-dessous illustre (maladroitement) l'éblouissement vécu:
+Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs ou aux couleurs saturées, par exemple les pages d'un livre ou les néons des magasins. Le montage ci-dessous illustre (maladroitement) l'éblouissement vécu:
 * en haut: scène perçue avec une vue "normale"
 * en bas: la même scène perçue avec une hyper-sensibilité à la lumière et en l'absence de lunettes
 
 ![Images du bureau "normal" vs "hyper-sensible"](./img/cat-on-desk-comparison.png)
+
+Et l'éblouissement ressenti à la lecture d'un texte imprimé en noir sur fond blanc:
+
+![Livre "normal" vs "hyper-sensible"](./img/livre.png)
+
+
+Lié à l'hypersensibilité à la lumière, je peux avoir des difficultés à repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple.
 
 Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/), j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à d'autres personnes hypersensibles à la lumière mais qui n'ont pas eu la chance d'être accompagnés et conseillés comme je l'ai été.
 
