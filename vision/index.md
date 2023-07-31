@@ -166,6 +166,8 @@ Pour remplacer deux écrans "plats" de 14" vieillissants et au contraste et à l
 
 Après lecture de quelques comparatifs en ligne, j'hésitais entre le [Huawei Mateview GT 34"](https://consumer.huawei.com/fr/monitors/mateview-gt) et les gammes [Samsung](https://www.samsung.com/fr/monitors/curved/). La décision finale s'est jouée sur la possibilité d'acquérir le Huawei en solde, ainsi que sur quelques éléments de second ordre, tels que l'empiètement du support sur le bureau.
 
+![Écran Huawei Mateview GT 34](./img/huawei.png)
+
 ### Clavier
 - Keyboard with high contrast stickers
 - Keyboard with backlight (gaming)
