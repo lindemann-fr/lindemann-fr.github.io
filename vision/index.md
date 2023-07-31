@@ -120,7 +120,7 @@ Entre éblouissement dès que je suis en extérieur et difficultés à distingue
 
 ![Samsung Galaxy Watch 4 Classic](./img/galaxy-watch.png)
 
-Je me suis ainsi équipé d'une [Samsung Galaxy Watch 4 Classic](https://www.samsung.com/fr/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r890nzkaxef/). En me contentant de l'utiliser pour afficher l'heure, mon agenda et le nombre de pas effectués dans la journée, la batterie dure deux jours ou plus. Le plus important à mes yeux est cependant la facilité avec laquelle il est possible de personnaliser l'écran. J'ai ainsi pu modifier en 10 minutes un des modèles de cadrans pré-installés pour le passer en texte blanc sur fond noir et remplacer quelques informations peu utiles par d'autres qui le sont davantage (un second fuseau horaire, dans mon cas).
+Mon choix s'est porté sur la [Samsung Galaxy Watch 4 Classic](https://www.samsung.com/fr/watches/galaxy-watch/galaxy-watch4-classic-black-bluetooth-sm-r890nzkaxef/) qui est déjà un modèle ancien donc trouvable en promotion tout en étant toujours officiellement commercialisé et supporté par Samsung. En me contentant de l'utiliser pour afficher l'heure, mon agenda et le nombre de pas effectués dans la journée, la batterie dure deux jours ou plus. J'apprécie également la facilité avec laquelle il est possible de personnaliser l'écran. Il m'a fallu moins de 10 minutes pour modifier un des modèles de cadrans pré-installés, le passer en texte blanc sur fond noir et remplacer quelques informations peu utiles par d'autres qui le sont davantage (un second fuseau horaire, dans mon cas).
 
 ## Prise de notes
 Là aussi, ma sensibilité à la lumière rend appréciable l'écriture blanche sur fond noir. Voici donc les références que j'utilise actuellement:
