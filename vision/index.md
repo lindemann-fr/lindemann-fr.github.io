@@ -148,18 +148,7 @@ J'ai finalement choisi la Kindle Scribe pour des raisons toutes personnelles: je
 
 N'ayant pu tester la Kobo Elipsa 2E ni l'Onyx Boox Tab Ultra C, je ne suis malheureusement pas en mesure de me prononcer sur leurs avantages et inconvénients respectifs, au delà de ce que j'ai pu lire sur internet.
 
-## Informatique [à rédiger...]
-### Phone
-- Samsung pour écran AMOLED et Android pour la personnalisation
-- Dark mode
-- Accessibilité
-- Google Keep (live transcription)
-
-### OS
-- Linux is way more customizable than WIndows (I don't know Mac)
-- Theme: Greybird-dark-accessibility
-- Title: replace Noto Sans Bold with Noto Sans Regular
-- Icons: Faenza (comes with multiple dark sets)
+## Informatique
 
 ### Écran
 Pour remplacer deux écrans "plats" de 14" vieillissants et au contraste et à la profondeur de noir médiocres, je cherchais un écran unique, incurvé, de 34" ou plus, avec de bons contrastes et une bonne profondeur de noir.
@@ -172,3 +161,15 @@ Après lecture de quelques comparatifs en ligne, j'hésitais entre le [Huawei Ma
 Travaillant désormais dans un environnement relativement sombre, j'ai fait le choix de changer le bon vieux [clavier Dell rustique](https://www.amazon.fr/dp/B01N8XWYID) auquel j'étais habitué pour un clavier retro-éclairé. Les critères considérés étaient les suivants: QWERTY US avec pavé numérique, type membrane pour limiter le bruit, éclairage "à travers" les touches plutôt que "autour" des touches, allure sobre. Parmi les marques que j'ai utilisé au fil des années, Logitech et Steelseries proposaient les meilleurs options. Mon choix s'est finalement porté sur le [Steelseries Apex 3](https://steelseries.com/gaming-keyboards/apex-3) dont le seul défaut est un rétro-éclairage "autour des touches" trop intense comparativement à l'éclairage "à travers" les touches à mon goût.
 
 ![Clavier Steelseries Apex 3](./img/keyboard.png)
+
+### Logiciels [à rédiger...]
+- Linux is way more customizable than WIndows (I don't know Mac)
+- Theme: Greybird-dark-accessibility
+- Title: replace Noto Sans Bold with Noto Sans Regular
+- Icons: Faenza (comes with multiple dark sets)
+
+### Téléphone [à rédiger...]
+- Samsung pour écran AMOLED et Android pour la personnalisation
+- Dark mode
+- Accessibilité
+- Google Keep (live transcription)
