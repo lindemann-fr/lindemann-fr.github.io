@@ -1,4 +1,4 @@
-# Mon adaptation à une hyper-sensibilité à la lumière
+# Gérer l'hyper-sensibilité à la lumière
 
 ## Objet
 J'ai appris à vivre avec une hyper-sensibilité à la lumière apparue récemment. Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques paragraphes se montreront utiles.
