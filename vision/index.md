@@ -1,14 +1,19 @@
-# Vision
+# Mon adaptation à une hyper-sensibilité à la lumière
+
+## Objet
+Cette section liste les adaptations que j'ai mises en place pour vivre le plus normalement possible avec une hyper-sensibilité à la lumière. J'espère que certains seront utiles à d'autres personnes vivant la même situation.
 
 ## Contexte
-En mai 2023, j'ai fait une [réaction auto-immune](https://fr.wikipedia.org/wiki/Enc%C3%A9phalomy%C3%A9lite_aigu%C3%AB_diss%C3%A9min%C3%A9e) qui m'a temporairement fait perdre la vue. J'ai heureusement eu la chance d'être remarquablement pris en charge par les équipes du [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) de Lausanne.
+En mai 2023, j'ai fait une [réaction auto-immune](https://fr.wikipedia.org/wiki/Enc%C3%A9phalomy%C3%A9lite_aigu%C3%AB_diss%C3%A9min%C3%A9e) qui m'a temporairement mais totalement fait perdre la vue. J'ai heureusement été remarquablement pris en charge par les équipes du [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) à Lausanne.
 
 Moins de deux mois après la fin du traitement, j'avais récupéré la majorité des [capacités sensorielles](https://w3c.github.io/low-vision-a11y-tf/requirements.html#visual-impairments) qui constituent la vision:
 * l'**acuité visuelle** (le célèbre "10/10 à chaque oeil"),
 * le **champ visuel**,
 * la **perception des couleurs**, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n'est pas sans ironie pour un résident suisse.
 
-Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, par exemple les pages d'un livre, et j'ai des difficultés à repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple.
+Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs ou aux couleurs saturées, par exemple les pages d'un livre ou les néons des magasins, et j'ai des difficultés à repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple. Le montage ci-dessous illustre (maladroitement) l'éblouissement: l'image du haut est mon bureau perçu avec une vue "normale", l'image du bas est la même scène telle que je la perçois désormais en l'absence de lunettes.
+
+![Images du bureau "normal" vs "hyper-sensible"](./img/cat-on-desk-comparison.jpg)
 
 Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/), j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à celles et ceux qui connaissent la même hypersensibilité à la lumière mais n'ont pas eu la chance d'être accompagnés et conseillés comme je l'ai été.
 
