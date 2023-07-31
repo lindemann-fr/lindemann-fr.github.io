@@ -116,7 +116,7 @@ En complément des lunettes, porter un chapeau ou une casquette permet simplemen
 ![Casquette Notchgear](./img/notchgear-hat.jpg)
 
 ### Montre
-Entre éblouissement dès que je suis en extérieur et difficultés à distinguer les faibles contrastes, j'ai dû mettre de côté la montre qui m'accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d'un écran [AMOLED](https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente_organique#Avantages) dont le principal atout est d'afficher à la fois des noirs profonds et des couleurs intenses. Ces éléments permettent un contraste important et donc une lecture qui m'est confortable même en plein soleil.
+Entre éblouissement dès que je suis en extérieur et difficultés à distinguer les faibles contrastes, j'ai dû mettre de côté la montre qui m'accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d'un écran [AMOLED](https://fr.wikipedia.org/wiki/Diode_%C3%A9lectroluminescente_organique#Avantages) dont le principal atout est d'afficher à la fois des noirs profonds et des couleurs intenses. Ces éléments permettent un contraste important et une lecture confortable même en plein soleil.
 
 ![Samsung Galaxy Watch 4 Classic](./img/galaxy-watch.png)
 
