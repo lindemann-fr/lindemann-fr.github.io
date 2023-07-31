@@ -1,4 +1,4 @@
-# Mon adaptation à une hyper-sensibilité à la lumière
+ # Mon adaptation à une hyper-sensibilité à la lumière
 
 ## Objet
 J'ai appris à vivre avec une hyper-sensibilité à la lumière apparue récemment. Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques paragraphes se montreront utiles.
@@ -40,7 +40,7 @@ Enfin, sauf mention contraire, j'utilise moi-même les références que je prés
 
 #### Teinte des verres
 ##### Éblouissement et UV
-Il faut distinguer protection contre l'éblouissement et protection contre les ultra-violets. Par définition, **l'éblouissement est causé par la lumière visible**. S'en protéger passe par le port de verres teintés. Au contraire, **les ultra-violets sont invisibles**, puisqu'ils correspondent par définition au spectre lumineux au delà du violet, qui est la couleur la plus intense perceptible par l'oeil humain. S'en protéger passe par l'application d'un traitement sur les verres. Ce traitement peut être invisible.
+Il faut distinguer protection contre l'éblouissement et protection contre les ultra-violets. Par définition, **l'éblouissement est causé par la lumière visible**. S'en protéger passe par le port de verres teintés. Au contraire, **les ultra-violets sont invisibles**, puisqu'ils correspondent là aussi par définition au spectre lumineux au delà du violet, qui est la couleur la plus intense perceptible par l'oeil humain. S'en protéger passe par l'application d'un traitement sur les verres. Ce traitement peut être invisible.
 
 ![Spectre lumineux"](./img/spectre-lumineux.png)
 
