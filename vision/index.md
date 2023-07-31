@@ -50,10 +50,10 @@ Cette section ne traite que de la protection contre l'éblouissement. Celle-ci e
 **Ces verres filtrent entre 57% et 82% de la lumière**. Ils sont conseillés pour des situations d'ensoleillement moyen.
 
 ##### Catégorie 3
-**Ces verres filtrent entre 82% et 92% de la lumière**. Ils sont efficaces dans des situations de forte luminosité solaire : à la mer, à la plage, ou pour les sports d'hiver.
+**Ces verres filtrent entre 82% et 92% de la lumière**. Ils sont efficaces dans des situations de forte luminosité: à la mer, à la plage, ou pour les sports d'hiver.
 
 ##### Catégorie 4
-**Ces verres filtrent plus de 92% de la lumière**. Ils sont indiquées en cas de luminosité solaire extrême comme par exemple pour l'alpinisme sur les glaciers ou en haute montagne car la luminosité est décuplée par la réverbération sur la glace et la neige.
+**Ces verres filtrent plus de 92% de la lumière**. Ils sont indiquées en cas de luminosité extrême comme par exemple pour l'alpinisme sur les glaciers ou en haute montagne car la luminosité est décuplée par la réverbération sur la glace et la neige.
 
 Attention: certains pays interdisent de conduire en portant des lunettes de catégorie 4.
 
