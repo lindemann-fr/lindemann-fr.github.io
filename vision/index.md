@@ -38,22 +38,22 @@ Enfin, sauf mention contraire, j'utilise moi-même les références que je prés
 Il faut distinguer protection contre l'éblouissement et protection contre les ultra-violets. Par définition, **l'éblouissement est causé par la lumière visible**. S'en protéger passe par le port de verres teintés. Au contraire, **les ultra-violets sont invisibles**, puisqu'ils correspondent par définition au spectre lumineux au delà du violet, qui est la couleur la plus intense perceptible par l'oeil humain. S'en protéger passe par l'application d'un traitement sur les verres. Ce traitement peut être invisible.
 En résumé, des verres très sombres, c'est-à-dire très efficaces contre l'éblouissement, ne protègeront pas nécessairement contre les UV. Inversement, des verres transparents traités contre les UV peuvent très bien filtrer les UV solaires à 100 % mais ne protégeront pas du tout contre l'éblouissement.
 
-Cette section ne traite que de la protection contre l'éblouissement. Celle-ci est codifiée par [un texte de loi européen](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0425). Un chiffre de 0 à 4 indiquant le degré de protection contre l'éblouissement est indiqué dans le descriptif de chaque paire de lunettes de soleil [source](https://www.visilab.ch/fr/votre-vision/verres-solaires).
+Cette section ne traite que de la protection contre l'éblouissement. Celle-ci est codifiée par [un texte de loi européen](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0425). Un chiffre de 0 à 4 indiquant le degré de protection contre l'éblouissement est indiqué dans le descriptif de chaque paire de lunettes de soleil [source](https://www.visilab.ch/fr/votre-vision/verres-solaires). Les catégories intéressantes sont les 3 et 4.
 
 ##### Catégorie 0
-Ces verres filtrent entre 0% et 20% de la lumière. Ce sont en général des lunettes à visée esthétique qui ne permettent pas de se protéger efficacement du rayonnement ultra-violet en cas d'exposition à une luminosité solaire forte.
+**Ces verres filtrent entre 0% et 20% de la lumière**. Ce sont en général des lunettes à visée esthétique qui ne permettent pas de se protéger efficacement du rayonnement ultra-violet en cas d'exposition à une luminosité solaire forte.
 
 ##### Catégorie 1
-Ces verres filtrent entre 20% et 57% de la lumière. Ils sont recommandés pour des situations d'ensoleillement atténué, comme par exemple en hiver ou par temps très gris. Cet indice n'est pas conseillé pour une exposition massive à de forts rayonnements du soleil.
+**Ces verres filtrent entre 20% et 57% de la lumière**. Ils sont recommandés pour des situations d'ensoleillement atténué, comme par exemple en hiver ou par temps très gris. Cet indice n'est pas conseillé pour une exposition massive à de forts rayonnements du soleil.
 
 ##### Catégorie 2
-Ces verres filtrent entre 57% et 82% de la lumière. Ils sont conseillés pour des situations d'ensoleillement moyen.
+**Ces verres filtrent entre 57% et 82% de la lumière**. Ils sont conseillés pour des situations d'ensoleillement moyen.
 
 ##### Catégorie 3
-Ces verres filtrent entre 82% et 92% de la lumière. Ils sont efficaces dans des situations de forte luminosité solaire : à la mer, à la plage, ou pour les sports d'hiver.
+**Ces verres filtrent entre 82% et 92% de la lumière**. Ils sont efficaces dans des situations de forte luminosité solaire : à la mer, à la plage, ou pour les sports d'hiver.
 
 ##### Catégorie 4
-Ces verres filtrent plus de 92% de la lumière. Ils sont indiquées en cas de luminosité solaire extrême comme par exemple pour l'alpinisme sur les glaciers ou en haute montagne car la luminosité est décuplée par la réverbération sur la glace et la neige.
+**Ces verres filtrent plus de 92% de la lumière**. Ils sont indiquées en cas de luminosité solaire extrême comme par exemple pour l'alpinisme sur les glaciers ou en haute montagne car la luminosité est décuplée par la réverbération sur la glace et la neige.
 
 Attention: certains pays interdisent de conduire en portant des lunettes de catégorie 4.
 
