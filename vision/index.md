@@ -76,11 +76,18 @@ Des verres polarisants aident à améliorer le contraste. La page Wikipedia sur 
 #### Monture
 Afin de limiter l'éblouissement par des sources lumineuses situées à la périphérie du champ visuel, il est recommandé de choisir des montures arquées avec des branches épaisses, voire même des panneaux latéraux pour limiter l'éblouissement par le coté.
 
-#### Conclusion
+#### Concrètement
 En l'état actuel de ma sensibilité à la lumière, je porte le plus souvent des verres polarisants de catégorie 4 en extérieur et des verres non polarisants de catégorie 3 en intérieur. Lorsque je peux totalement controler la luminosité de mon environnement, comme par exemple la pièce qui me sert de bureau en télétravail, je peux même mettre mes anciennes lunettes de vue non teintées et non polarisantes.
 
 #### Références
-Selon les données du fabricant, toutes les références ci-dessous filtrent 100% des UV nocifs.
+Toutes les références ci-dessous filtrent 100% des UV nocifs (données fabricant).
+
+Vous verrez que j'ai pris toutes mes lunettes chez Décathlon. La raison est multiple:
+1. Je porte depuis longtemps et avec satisfaction un de leurs modèles de lunettes pour cyclistes (voir plus bas).
+2. Il est possible d'essayer les produits et, s'ils ne conviennent pas, de les rapporter pour échange ou remboursement, pendant 30 jours et jusqu'à 1 an [sous conditions](https://www.decathlon.ch/fr/landing/365-jours-retour/_/R-a-a140016v).
+3. Il existe un magasin près de choix moi :)
+
+Dans la mesure où j'espère bien que ma vision continuera de s'améliorer, le point 2 ci-dessus me permettra d'échanger mes lunettes, si besoin, au fur et à mesure des progrès.
 
 ##### Catégorie 4 polarisante ou non: [Décathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
 Ces lunettes arquées ont des verres gris et des branches très larges qui ne laissent passer aucune source de lumière latérale. Elles existent aussi en version non-polarisante.
