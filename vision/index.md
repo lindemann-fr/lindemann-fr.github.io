@@ -13,7 +13,7 @@ Moins de deux mois après la fin du traitement, j'avais récupéré la majorité
 
 Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs ou aux couleurs saturées, par exemple les pages d'un livre ou les néons des magasins, et j'ai des difficultés à repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple. Le montage ci-dessous illustre (maladroitement) l'éblouissement: l'image du haut est mon bureau perçu avec une vue "normale", l'image du bas est la même scène telle que je la perçois désormais en l'absence de lunettes.
 
-![Images du bureau "normal" vs "hyper-sensible"](./img/cat-on-desk-comparison.jpg)
+![Images du bureau "normal" vs "hyper-sensible"](./img/cat-on-desk-comparison.png)
 
 Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/), j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à celles et ceux qui connaissent la même hypersensibilité à la lumière mais n'ont pas eu la chance d'être accompagnés et conseillés comme je l'ai été.
 
