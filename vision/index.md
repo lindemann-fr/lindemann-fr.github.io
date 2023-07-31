@@ -158,7 +158,7 @@ Après lecture de quelques comparatifs en ligne, j'hésitais entre le [Huawei Ma
 ![Écran Huawei Mateview GT 34](./img/huawei.png)
 
 ### Clavier
-Travaillant désormais dans un environnement relativement sombre, j'ai fait le choix de changer le bon vieux [clavier Dell rustique](https://www.amazon.fr/dp/B01N8XWYID) auquel j'étais habitué pour un clavier retro-éclairé. Les critères considérés étaient les suivants: QWERTY US avec pavé numérique, type membrane pour limiter le bruit, éclairage "à travers" les touches plutôt que "autour" des touches, allure sobre. Parmi les marques que j'ai utilisé au fil des années, Logitech et Steelseries proposaient les meilleurs options. Mon choix s'est finalement porté sur le [Steelseries Apex 3](https://steelseries.com/gaming-keyboards/apex-3) dont le seul défaut est un rétro-éclairage "autour des touches" trop intense comparativement à l'éclairage "à travers" les touches à mon goût.
+Travaillant désormais dans un environnement relativement sombre, j'ai fait le choix de changer le bon vieux [clavier Dell rustique](https://www.amazon.fr/dp/B01E7V73IE) auquel j'étais habitué pour un clavier retro-éclairé. Les critères considérés étaient les suivants: QWERTY US avec pavé numérique, type membrane pour limiter le bruit, éclairage "à travers" les touches plutôt que "autour" des touches, allure sobre. Parmi les marques que j'ai utilisé au fil des années, Logitech et Steelseries proposaient les meilleurs options. Mon choix s'est finalement porté sur le [Steelseries Apex 3](https://steelseries.com/gaming-keyboards/apex-3) dont le seul défaut est un rétro-éclairage "autour des touches" trop intense comparativement à l'éclairage "à travers" les touches à mon goût.
 
 ![Clavier Steelseries Apex 3](./img/keyboard.png)
 
