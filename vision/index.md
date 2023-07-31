@@ -1,4 +1,4 @@
- # Mon adaptation à une hyper-sensibilité à la lumière
+# Mon adaptation à une hyper-sensibilité à la lumière
 
 ## Objet
 J'ai appris à vivre avec une hyper-sensibilité à la lumière apparue récemment. Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques paragraphes se montreront utiles.
@@ -155,14 +155,16 @@ N'ayant pu tester la Kobo Elipsa 2E ni l'Onyx Boox Tab Ultra C, je ne suis malhe
 - Accessibilité
 - Google Keep (live transcription)
 
-### Computer
+### OS
 - Linux is way more customizable than WIndows (I don't know Mac)
 - Theme: Greybird-dark-accessibility
 - Title: replace Noto Sans Bold with Noto Sans Regular
 - Icons: Faenza (comes with multiple dark sets)
 
 ### Écran
-- Huawei 
+Pour remplacer deux écrans "plats" de 14" vieillissants et au contraste et à la profondeur de noir médiocres, je cherchais un écran unique, incurvé, de 34" ou plus, avec de bons contrastes et une bonne profondeur de noir.
+
+Après lecture de quelques comparatifs en ligne, j'hésitais entre le [Huawei Mateview GT 34"](https://consumer.huawei.com/fr/monitors/mateview-gt) et les gammes [Samsung](https://www.samsung.com/fr/monitors/curved/). La décision finale s'est jouée sur la possibilité d'acquérir le Huawei en solde, ainsi que sur quelques éléments de second ordre, tels que l'empiètement du support sur le bureau.
 
 ### Clavier
 - Keyboard with high contrast stickers
