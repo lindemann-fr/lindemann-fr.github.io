@@ -517,7 +517,7 @@ that I have in my life. And most of our regrets are acts of omission — the thi
 
 <br/>
 
-> Ich mag es nicht, wenn mir ein gutes Wort vorenthalten wird.
+> Je n'aime pas que l'on me prive d'un bon mot.
 
 — Albert Einstein
 
