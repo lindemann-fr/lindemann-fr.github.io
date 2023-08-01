@@ -4,7 +4,7 @@ De mes discussions avec des opticiens habitués à ces demandes exotiques, il re
 * adaptés à la vue, pour corriger une myopie, une hypermétropie, un astygmatisme, par exemple
 * teintés, pour protéger contre l'éblouissement
 * courbés pour réduire l'éblouissement latéral
-* * polarisants, pour augmenter le contraste
+* polarisants, pour augmenter le contraste
 
 Il semble que plus la correction est faible, plus les verres seront fins et plus il sera possible de les courber, teinter, polariser, etc. 
 
