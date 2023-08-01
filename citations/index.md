@@ -322,9 +322,9 @@ En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
 
 
 > What drives my big decisions is regret minimization. When I’m 80 and reflecting back, I want to have minimized the number of regrets 
-that I have in my life. And most of our regrets are acts of omission — the things we didn’t try, the paths untraveled. Those are the 
+that I have in my life. And most of our regrets are acts of omission — the things we didn’t try, the paths untraveled. Those are the things that haunt us.
 
-<br/>things that haunt us.
+<br/>
 
 ― Jeff Bezos
 
