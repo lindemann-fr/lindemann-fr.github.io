@@ -565,5 +565,5 @@ among people ― that person is headed for higher earning power.
 
 ― Alan Turing
 
-[^1] Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
-[^2] Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
+[^1]: Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
+[^2]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
