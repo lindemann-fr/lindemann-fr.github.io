@@ -1,7 +1,7 @@
-# Gérer l'hyper-sensibilité à la lumière
+# Gérer l'hypersensibilité à la lumière
 
 ## Objet
-J'ai appris à vivre avec une hyper-sensibilité à la lumière apparue récemment. Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques paragraphes se montreront utiles.
+J'ai appris à vivre avec une hypersensibilité à la lumière apparue récemment. Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques paragraphes se montreront utiles.
 
 ## Contexte
 En mai 2023, j'ai fait une [réaction auto-immune](https://fr.wikipedia.org/wiki/Enc%C3%A9phalomy%C3%A9lite_aigu%C3%AB_diss%C3%A9min%C3%A9e) qui m'a temporairement mais totalement fait perdre la vue. J'ai heureusement été remarquablement pris en charge par les équipes du [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) à Lausanne.
@@ -17,13 +17,13 @@ Les montages ci-dessous illustrent (maladroitement) l'éblouissement ressenti da
 
 À la lecture d'un texte imprimé en noir sur fond blanc:
 * à gauche: page perçue avec une vue "normale"
-* à droite: la même page perçue avec une hyper-sensibilité à la lumière et en l'absence de lunettes
+* à droite: la même page perçue avec une hypersensibilité à la lumière et en l'absence de lunettes
 
 ![Livre "normal" vs "hyper-sensible"](./img/livre.png)
 
 En milieu normalement éclairé:
 * en haut: scène perçue avec une vue "normale"
-* en bas: la même scène perçue avec une hyper-sensibilité à la lumière et en l'absence de lunettes
+* en bas: la même scène perçue avec une hypersensibilité à la lumière et en l'absence de lunettes
 
 ![Images du bureau "normal" vs "hyper-sensible"](./img/cat-on-desk-comparison.png)
 
@@ -52,7 +52,7 @@ Il faut distinguer protection contre l'éblouissement et protection contre les u
 
 En résumé, des verres très sombres, c'est-à-dire très efficaces contre l'éblouissement, ne protègeront pas nécessairement contre les UV. Inversement, des verres transparents traités contre les UV peuvent très bien filtrer les UV solaires à 100 % mais ne protégeront pas du tout contre l'éblouissement.
 
-Cette section ne traite que de la protection contre l'éblouissement. Celle-ci est codifiée par [un texte de loi européen](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0425). Un chiffre de 0 à 4 indiquant le degré de protection contre l'éblouissement est indiqué dans le descriptif de chaque paire de lunettes de soleil [[source](https://www.visilab.ch/fr/votre-vision/verres-solaires)]. Les catégories 3 et 4 sont les plus intéressantes en cas d'hyper-sensibilité à la lumière.
+Cette section ne traite que de la protection contre l'éblouissement. Celle-ci est codifiée par [un texte de loi européen](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0425). Un chiffre de 0 à 4 indiquant le degré de protection contre l'éblouissement est indiqué dans le descriptif de chaque paire de lunettes de soleil [[source](https://www.visilab.ch/fr/votre-vision/verres-solaires)]. Les catégories 3 et 4 sont les plus intéressantes en cas d'hypersensibilité à la lumière.
 
 ##### Catégorie 0
 **Ces verres filtrent entre 0% et 20% de la lumière**. Ce sont en général des lunettes à visée esthétique qui ne permettent pas de se protéger efficacement du rayonnement ultra-violet en cas d'exposition à une luminosité solaire forte.
