@@ -29,9 +29,6 @@ En milieu normalement éclairé:
 
 ![Images du bureau vision "hyper-sensible"](./img/cat-on-desk-blinded.png)
 
-
-Lié à l'hypersensibilité à la lumière, je peux avoir des difficultés à repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple.
-
 Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/), j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à d'autres personnes hypersensibles à la lumière mais qui n'ont pas eu la chance d'être accompagnés et conseillés comme je l'ai été.
 
 ## Remarque sur les liens "commerciaux¨
@@ -90,12 +87,12 @@ En l'état actuel de ma sensibilité à la lumière, je porte le plus souvent de
 #### Références
 Toutes les références ci-dessous filtrent 100% des UV nocifs (données fabricant).
 
-Vous verrez que j'ai pris toutes mes lunettes chez Décathlon. La raison est multiple:
-1. Je porte depuis longtemps et avec satisfaction un de leurs modèles de lunettes pour cyclistes (voir plus bas).
-2. Il est possible d'essayer les produits et, s'ils ne conviennent pas, de les rapporter pour échange ou remboursement, pendant 30 jours et jusqu'à 1 an [sous conditions](https://www.decathlon.ch/fr/landing/365-jours-retour/_/R-a-a140016v).
+Vous verrez que j'ai pris toutes mes lunettes chez Décathlon. Cela s'explique par les raisons suivantes:
+1. Il est possible d'essayer les produits et, s'ils ne conviennent pas, de les rapporter pour échange ou remboursement, pendant 30 jours et jusqu'à 1 an [sous conditions](https://www.decathlon.ch/fr/landing/365-jours-retour/_/R-a-a140016v).
+2. Je porte depuis longtemps et avec satisfaction un de leurs modèles de lunettes de soleil pour cyclistes (voir plus bas).
 3. Il existe un magasin près de choix moi :)
 
-Dans la mesure où j'espère bien que ma vision continuera de s'améliorer, le point 2 ci-dessus me permettra d'échanger mes lunettes, si besoin, au fur et à mesure des progrès.
+Dans la mesure où j'espère bien que ma vision continuera de s'améliorer, le point 1 ci-dessus me permettra d'échanger mes lunettes, si besoin, au fur et à mesure des progrès.
 
 ##### Catégorie 4 polarisante ou non: [Décathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
 Ces lunettes arquées ont des verres gris et des branches très larges qui ne laissent passer aucune source de lumière latérale. Elles existent aussi en version non-polarisante.
@@ -185,3 +182,6 @@ Note: il existe également des claviers avec des touches spécialement conçues 
 - Dark mode
 - Accessibilité
 - Google Keep (live transcription)
+
+### Divers
+En raison de la mauvaise gestion de la luminosité, il m'est plus difficile de repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple. Pour me faciliter la vie, j'ai aposé des bandes fluo autollantes sur la plupart des objets qui m'ont posé problème à un moment ou à un autre.
