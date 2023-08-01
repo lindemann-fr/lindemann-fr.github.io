@@ -47,7 +47,7 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 * [Montre](montre)
 
 ## Prise de notes
-* [Options de prise de notes](prise-de-notes)
+* [Cahiers, ardoises, tablettes](prise-de-notes)
 
 ## Informatique
 * [Matériel](materiel-informatique)
