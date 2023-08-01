@@ -16,13 +16,13 @@ Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux 
 Les montages ci-dessous illustrent (maladroitement) l'éblouissement ressenti dans certains contextes.
 
 À la lecture d'un texte imprimé en noir sur fond blanc:
-* à gauche: page perçue avec une vue "normale"
+* à gauche: page perçue avec une vision "normale"
 * à droite: la même page perçue avec une hypersensibilité à la lumière et en l'absence de lunettes
 
 ![Livre "normal" vs "hyper-sensible"](./img/livre.png)
 
 En milieu normalement éclairé:
-* en haut: scène perçue avec une vue "normale"
+* en haut: scène perçue avec une vision "normale"
 * en bas: la même scène perçue avec une hypersensibilité à la lumière et en l'absence de lunettes
 
 ![Images du bureau "normal" vs "hyper-sensible"](./img/cat-on-desk-comparison.png)
