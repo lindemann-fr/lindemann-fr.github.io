@@ -9,3 +9,6 @@ De mes discussions avec des opticiens habitués à ces demandes exotiques, il re
 Il semble que plus la correction est faible, plus les verres seront fins et plus il sera possible de les courber, teinter, polariser, etc. 
 
 Inversement, plus la correction est importante et les verres épais, plus il sera difficile de satisfaire les contraintes de forte courbure, de teinte sombre et de polarisation.
+
+# Retour
+[Cliquez ici pour retourner à l’index.](index)
