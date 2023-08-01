@@ -799,6 +799,14 @@ among people ― that person is headed for higher earning power.
 
 <br/>
 
+> Elle ne vit pas dans mon ombre. Je vis dans sa lumière.
+
+― Yves Duteil, à propos de son épouse
+
+<br/>
+
 > It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
 
 ― Alan Turing
+
+## Notes
