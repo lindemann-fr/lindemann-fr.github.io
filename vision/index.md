@@ -11,7 +11,7 @@ Moins de deux mois après la fin du traitement, j'avais récupéré la majorité
 * le **champ visuel**,
 * la **perception des couleurs**, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n'est pas sans ironie pour un résident suisse.
 
-Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs ou aux couleurs saturées, par exemple les pages d'un livre ou les néons des magasins. 
+Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs et les couleurs saturées (les néons des magasins, par exemple). 
 
 Les montages ci-dessous illustrent (maladroitement) l'éblouissement ressenti dans certains contextes.
 
