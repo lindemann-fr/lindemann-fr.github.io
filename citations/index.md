@@ -12,7 +12,7 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 * La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées car mon goût en matière de nourriture intellectuelle varie fréquemment.
 
 ## Citations
-> Je n'aime pas que l'on me prive d'un bon mot.
+> Ich mag es nicht, wenn mir ein gutes Wort vorenthalten wird.
 
 — Albert Einstein
 
