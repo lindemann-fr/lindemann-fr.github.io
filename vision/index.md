@@ -43,9 +43,7 @@ Enfin, sauf mention contraire, j'utilise moi-même les références que je prés
 * [Montre](montre)
 
 ## Prise de notes
-* [Cahier et stylos](cahier-stylos)
-* [Ardoise et cayons de craie](ardoise-craies)
-* [Liseuse avec prise de notes](liseuse)
+* [Options de prise de notes](prise-de-notes)
 
 ## Ordinateur
 * Logiciels
