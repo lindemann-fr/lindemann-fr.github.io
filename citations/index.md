@@ -7,11 +7,9 @@ Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est
 
 En conséquence, les critères suivants n'ont **pas** été pris en compte :
 * Que je sois d'accord ou non avec la citation.
-* Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais. Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution*.
+* Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais. Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution[^1].
 * Que l'auteur soit fictif ou non. Les vampires et les super-héros font de bons philosophes. Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
 * La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées car mon goût en matière de nourriture intellectuelle varie fréquemment.
-
-\* Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
 
 ## Citations
 > Je n'aime pas que l'on me prive d'un bon mot.
@@ -566,3 +564,5 @@ among people ― that person is headed for higher earning power.
 > It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
 
 ― Alan Turing
+
+[^1] Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
