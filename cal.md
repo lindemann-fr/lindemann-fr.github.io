@@ -1,5 +1,5 @@
 # Calendrier
-Vous serez redirigé.e.s vers mon calendrier dans quelques secondes.
+Cette page vous redirigera vers mon calendrier dans quelques secondes.
 
 Vous pouvez vous y rendre tout de suite [en cliquant ici](https://calendly.com/mathieu_lindemann).
 
