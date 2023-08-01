@@ -16,8 +16,6 @@ En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
 [^1]: Par exemple, celles de Dijkstra ou San Juan de la Cruz.
 
 [^2]: Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution.
-  Sauf si la conséquence est de retirer une citation à Albert Einstein.
-  Je ne laisse personne priver Albert d'un bon mot.
 
 [^3]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
 
