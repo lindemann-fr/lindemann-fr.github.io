@@ -36,7 +36,7 @@ Pour me faciliter la vie, j'ai aposé des bandes fluo autocollantes sur la plupa
 Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/), j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à d'autres personnes hypersensibles à la lumière mais qui n'ont pas eu la chance d'être accompagnées et conseillées comme je l'ai été.
 
 ## Remarque sur les liens
-Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour identifier sans équivoque ce dont je parle, au cas où un lecteur de cette page souhaiterait en savoir plus.
+Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour identifier sans équivoque ce dont je parle, au cas où un lecteur souhaiterait en savoir plus.
 
 Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées.
 
