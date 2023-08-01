@@ -6,28 +6,24 @@ La collecte de citations est l'un de mes plaisirs coupables.
 Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir. Il arrive souvent que la barre à passer soit peu élevée.
 
 En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
-* Que je sois d'accord ou non avec la citation [^1].
-* Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais. Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution [^2].
-* Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes [^3].
-* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées [^4].
+* Que je sois d'accord ou non avec la citation[^1].
+* Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais[^2].
+* Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes[^3].
+* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées[^4].
 
 
 
 [^1]: Par exemple, celles de Dijkstra ou San Juan de la Cruz.
 
-[^2]: Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
+[^2]: Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution.
+  Sauf si la conséquence est de retirer une citation à Albert Einstein.
+  Je ne laisse personne priver Albert d'un bon mot.
 
 [^3]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
 
 [^4]: J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment. 
 
 ## Citations
-
-> Ich mag es nicht, wenn mir ein gutes Wort vorenthalten wird.
-
-— Albert Einstein
-
-<br/>
 
 > Quand on écrit une nouvelle, le budget est illimité.
 
@@ -518,6 +514,12 @@ that I have in my life. And most of our regrets are acts of omission — the thi
 > In theory, theory and practice are the same. In practice, they are not..
 
 ― Albert Einstein
+
+<br/>
+
+> Ich mag es nicht, wenn mir ein gutes Wort vorenthalten wird.
+
+— Albert Einstein
 
 <br/>
 
