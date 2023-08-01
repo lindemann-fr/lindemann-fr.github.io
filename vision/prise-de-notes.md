@@ -2,9 +2,8 @@
 L'hypersensibilité à la lumière rend appréciable voire indispensable l'écriture blanche sur fond noir. Voici donc les références que j'utilise actuellement:
 
 ## Cahier et stylos
-- Cahier de 200 pages noires [Black Paper Notebook](https://www.amazon.fr/dp/B0C1HWZ7N1) (je n'ai trouvé de tels cahiers que sur ce site de e-commerce)
-- Stylos à encre blanche [Gelly Roll par Sakura](https://www.amazon.fr/dp/B07DN9KRCJ) (j'ai découvert ces stylos dans une papeterie qui les vend moins cher que les b
-outiques en ligne)
+- Cahier de 200 pages noires [Black Paper Notebook](https://www.amazon.fr/dp/B0C1HWZ7N1), à ma connaissance introuvables en magasin physique,
+- Stylos à encre blanche [Gelly Roll par Sakura](https://www.amazon.fr/dp/B07DN9KRCJ), découverts dans une papeterie lausannoise qui les vend moins cher que les boutiques en ligne.
 
 ![Cahier et stylos](./img/notebook-pens.png)
 
