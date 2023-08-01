@@ -4,4 +4,4 @@ En complément des lunettes, porter un chapeau ou une casquette permet simplemen
 ![Casquette Notchgear](./img/notchgear-hat.jpg)
 
 # Retour
-[Cliquez ici pour retourner à l’index.](index).
+[Cliquez ici pour retourner à l’index.](index)
