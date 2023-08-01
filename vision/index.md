@@ -168,6 +168,10 @@ Parmi les marques que j'ai utilisées au fil des années, Logitech et Steelserie
 
 ![Clavier Steelseries Apex 3](./img/keyboard.png)
 
+Note: il existe également des claviers avec des touches spécialement conçues pour offrir un contraste élevé:
+
+![Clavier à contraste élevé](./img/keyboard-high-contrast.png)
+
 ### Logiciels [à rédiger...]
 - Linux is way more customizable than WIndows (I don't know Mac)
 - Theme: Greybird-dark-accessibility
