@@ -9,7 +9,7 @@ En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
 * Que je sois d'accord ou non avec la citation. Par exemple, je suis en net désaccord avec celles de Dijkstra ou San Juan de la Cruz.
 * Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais.
 * Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes. Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
-* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées. J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment.  Par ailleurs, j'aime comprendre ce qui m'intéressait hier dans une citation que je trouve médiocre aujourd'hui.
+* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées. J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment.  Par ailleurs, comprendre ce qui m'intéressait hier dans une citation que je trouve médiocre aujourd'hui est un exercice très instructif.
 
 ## Citations
 
