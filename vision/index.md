@@ -10,6 +10,7 @@ En mai 2023, j'ai fait une [réaction auto-immune](https://fr.wikipedia.org/wiki
 
 Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs et les couleurs saturées (les néons des magasins, par exemple). 
 
+## Examples
 Les montages ci-dessous illustrent (maladroitement) l'éblouissement ressenti dans certains contextes.
 
 À la lecture d'un texte imprimé en noir sur fond blanc:
