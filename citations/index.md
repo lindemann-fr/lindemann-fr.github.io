@@ -6,10 +6,10 @@ La collecte de citations est l'un de mes plaisirs coupables.
 Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir. Il arrive souvent que la barre à passer soit peu élevée.
 
 En conséquence, les critères suivants n'ont **pas** été pris en compte :
-1. Que je sois d'accord ou non avec la citation.
-1. Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais. Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution[^1].
-1. Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes[^2].
-1. La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées car mon goût en matière de nourriture intellectuelle varie fréquemment.
+1. Que je sois d'accord ou non avec la citation[^1].
+1. Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais. Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution[^2].
+1. Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes[^3].
+1. La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées[^4].
 
 ## Citations
 
@@ -190,10 +190,9 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 > Franchement, qui peut affirmer qu'il comprend toutes les paroles d'une chanson d'Alain Bashung ?
 
-― Patrick Boucheron, professeur au collège de France, chaire « Histoire des pouvoirs en Europe occidentale, XIIIe–XVIe siècles » (
+― Patrick Boucheron, professeur au collège de France, chaire « Histoire des pouvoirs en Europe occidentale, XIIIe–XVIe siècles » (source: Les Nuits de France Culture)
 
 <br/>
-source: Les Nuits de France Culture)
 
 > Dieu se rit des créatures qui déplorent les effets dont elles chérissent les causes.
 
@@ -361,7 +360,7 @@ that I have in my life. And most of our regrets are acts of omission — the thi
 
 > Our goal, our objective, is to create and prevent technological surprise.
 
-― John Everett deputy director of DARPA's Information Innovation Office
+― John Everett, deputy director of DARPA's Information Innovation Office
 
 <br/>
 
@@ -798,5 +797,7 @@ among people ― that person is headed for higher earning power.
 
 <br/>
 
-[^1]: Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
-[^2]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
+[^1]: Par exemple, celles de Dijkstra ou San Juan de la Cruz.
+[^2]: Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
+[^3]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
+[^4]: J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment. Par ailleurs, comprendre ce qui pouvait m'intéresser hier dans une citation que je juge médiocre aujourd'hui est un exercice que je trouve assez intéressant.
