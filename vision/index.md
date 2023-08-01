@@ -45,9 +45,10 @@ Enfin, sauf mention contraire, j'utilise moi-même les références que je prés
 ## Prise de notes
 * [Options de prise de notes](prise-de-notes)
 
-## Ordinateur
-* Logiciels
-* [Écran](ecran)
-* [Clavier](clavier)
+## Informatique
+* [Matériel](materiel-informatique)
+* [Logiciels](logiciels)
 
 ## Téléphone
+* Réglages
+* Applications
