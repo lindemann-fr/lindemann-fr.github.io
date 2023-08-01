@@ -1,6 +1,5 @@
 # Gérer l'hypersensibilité à la lumière
 
-## Objet
 J'au récemment développé une hypersensibilité à la lumière. Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques lignes vous seront utiles.
 
 ## Contexte
