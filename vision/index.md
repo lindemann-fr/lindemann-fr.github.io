@@ -8,11 +8,11 @@ En mai 2023, j'ai fait une [réaction auto-immune](https://fr.wikipedia.org/wiki
 * le **champ visuel**,
 * la **perception des couleurs**, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n'est pas sans ironie pour un résident suisse.
 
-Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs et les couleurs saturées (les néons des magasins, par exemple). En raison de la mauvaise gestion de la luminosité, il m'est plus difficile de repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple.
+Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs et les couleurs saturées (les néons des magasins, par exemple). En raison de la mauvaise gestion de la luminosité, il m'est également plus difficile de repérer les objets ton sur ton, comme par exemple mon téléphone noir posé sur une surface noire.
 
 ## Exemples
 ### Éblouissement
-Les montages ci-dessous illustrent (maladroitement) l'éblouissement ressenti dans certains contextes.
+Les montages ci-dessous illustrent (maladroitement) l'éblouissement ressenti dans certaines situations.
 
 À la lecture d'un texte imprimé en noir sur fond blanc:
 * à gauche: page perçue avec une vision "normale"
@@ -29,7 +29,7 @@ En milieu normalement éclairé:
 ![Images du bureau vision "hyper-sensible"](./img/cat-on-desk-blinded.png)
 
 ### Contrastes faibles
-Pour me faciliter la vie, j'ai aposé des bandes fluo autollantes sur la plupart des objets que j'ai eu du mal à repérer à cause de leur couleur à un moment ou à un autre.
+Pour me faciliter la vie, j'ai aposé des bandes fluo autocollantes sur la plupart des objets que j'ai du mal à repérer.
 
 ![Téléphone noir sur cuir noir](./img/phone-on-leather.png)
 
