@@ -32,7 +32,7 @@ Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Go
 ## Remarque sur les liens "commerciaux¨
 Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour identifier sans équivoque les objets dont je parle, au cas où un lecteur de cette page serait aujourd´hui dans la situation qui était la mienne à la sortie de l'hôpital.
 
-Enfin, sauf mention contraire, j'utilise moi-même les références que je présente.
+Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées.
 
 ## Lunettes et accessoires
 * [Lunettes de soleil](lunettes-de-soleil)
