@@ -7,7 +7,7 @@ La section qui suit introduit brièvement cinq types de déficiences visuelles:
 1. Acuité visuelle (clarté)
 1. Sensibilité à la lumière et à l'éblouissement
 1. Sensibilité au contraste
-1. Champ de vision
+1. Champ visuel
 1. Perception des couleurs
 
 ## Acuité visuelle (Clarté)
