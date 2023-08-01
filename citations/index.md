@@ -6,10 +6,10 @@ La collecte de citations est l'un de mes plaisirs coupables.
 Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir. Il arrive souvent que la barre à passer soit peu élevée.
 
 En conséquence, les critères suivants n'ont **pas** été pris en compte :
-* Que je sois d'accord ou non avec la citation.
-* Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais. Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution[^1].
-* Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes[^2].
-* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées car mon goût en matière de nourriture intellectuelle varie fréquemment.
+1. Que je sois d'accord ou non avec la citation.
+1. Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais. Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution[^1].
+1. Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes[^2].
+1. La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées car mon goût en matière de nourriture intellectuelle varie fréquemment.
 
 ## Citations
 
