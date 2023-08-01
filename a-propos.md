@@ -23,6 +23,6 @@ Si vous souhaitez en savoir plus sur mon expérience et mes projets, envoyez-moi
 Je serai également heureux de discuter avec vous de vos projets, surtout s'ils impliquent des défis techniques et humains intéressants.
 
 ## Pourquoi
-> Il serait malhonnête de notre part de dissimuler que le motif principal qui a incité ce travail était le simple plaisir de la chose.
+> Il serait malhonnête de notre part de dissimuler le fait que la principale motivation à l'origine du travail était le simple plaisir de la chose.
 
 ― Alan Turing
