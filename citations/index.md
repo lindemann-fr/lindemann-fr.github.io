@@ -11,7 +11,7 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 * Que l'auteur soit fictif ou non. Les vampires et les super-héros font de bons philosophes. Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
 * La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées car mon goût en matière de nourriture intellectuelle varie fréquemment.
 
-\* Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'une bonne citation.
+\* Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
 
 ## Citations
 > Quand on écrit une nouvelle, le budget est illimité.
