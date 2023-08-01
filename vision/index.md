@@ -36,7 +36,7 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 
 ## Lunettes et accessoires
 * [Lunettes de soleil](lunettes-de-soleil)
-* Lunettes de vue
+* [Lunettes de vue](lunettes-de-vue)
 * [Couvre-chef](couvre-chef)
 * [Montre](montre)
 
