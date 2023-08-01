@@ -10,7 +10,7 @@ En mai 2023, j'ai fait une [réaction auto-immune](https://fr.wikipedia.org/wiki
 
 Aujourd'hui, seules ma **sensibilité à la lumière** et ma **sensibilité aux contrastes faibles** sont toujours déficientes. Concrètement, je suis beaucoup plus facilement ébloui qu'auparavant par les objets blancs, clairs et les couleurs saturées (les néons des magasins, par exemple). 
 
-## Examples
+## Exemples
 Les montages ci-dessous illustrent (maladroitement) l'éblouissement ressenti dans certains contextes.
 
 À la lecture d'un texte imprimé en noir sur fond blanc:
@@ -29,7 +29,7 @@ En milieu normalement éclairé:
 
 Heureusement, grâce aux équipes du CHUV et de [l'hôpital ophtalmique Jules Gonin](https://www.ophtalmique.ch/), j'ai pu adapter mon environnement de façon à mener une vie aussi normale que possible. Cette section du site a pour but de partager ces adaptations. J'espère qu'elle sera utile à d'autres personnes hypersensibles à la lumière mais qui n'ont pas eu la chance d'être accompagnés et conseillés comme je l'ai été.
 
-## Remarque sur les liens "commerciaux¨
+## Remarque sur les liens
 Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour identifier sans équivoque les objets dont je parle, au cas où un lecteur de cette page serait aujourd´hui dans la situation qui était la mienne à la sortie de l'hôpital.
 
 Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées.
