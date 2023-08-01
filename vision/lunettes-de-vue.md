@@ -1,6 +1,6 @@
 # Lunettes de vue
 
-De mes discussions avec des opticiens habitués de ce genres de demandes, il ressort qu'il est parfois possible de produire des verres qui sont à la fois:
+De mes discussions avec des opticiens habitués à ces demandes exotiques, il ressort qu'il est parfois possible de produire des verres qui sont à la fois:
 * adaptés à la vue, pour corriger une myopie, une hypermétropie, un astygmatisme, par exemple
 * teintés, pour protéger contre l'éblouissement
 * polarisants, pour augmenter le contraste
