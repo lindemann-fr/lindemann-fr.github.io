@@ -54,6 +54,6 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 * [Logiciels](logiciels)
 
 ## Téléphone
-* Modèle
+* [Modèle](natel)
 * Réglages
 * Applications
