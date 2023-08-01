@@ -3,3 +3,6 @@
 - Dark mode
 - Accessibilité
 - Google Keep (live transcription)
+
+# Retour
+[Cliquez ici pour retourner à l’index.](index)
