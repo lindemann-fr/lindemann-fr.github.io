@@ -12,8 +12,11 @@ En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
 1. La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées[^4].
 
 [^1]: Par exemple, celles de Dijkstra ou San Juan de la Cruz.
+
 [^2]: Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
+
 [^3]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
+
 [^4]: J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment. 
 
 ## Citations
