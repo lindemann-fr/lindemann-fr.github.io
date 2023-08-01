@@ -71,3 +71,6 @@ Je possèdais déjà ces lunettes avant ma perte de vision. De teinte bleue, les
 Moins courbées et avec des branches moins larges, ces lunettes teintées en bleu sont un peu moins protectrices que les modèles précédents. Elles restent cependant un choix tout à fait convenable pour mon usage.
 
 ![Lunettes Tribord 500](./img/Tribord-500.png)
+
+# Retour
+[Cliquez ici pour retourner à l'index](index).
