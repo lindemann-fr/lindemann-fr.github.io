@@ -4,7 +4,7 @@
 
 Je suis un mari et le père de deux enfants.
 
-Je suis un ingénieur et un entrepreneur spécialisé en informatique scientifique (datascience, ML, AI).
+Je suis un ingénieur et un entrepreneur spécialisé en informatique scientifique.
 
 Je suis né en France au début des années 1980.
 
