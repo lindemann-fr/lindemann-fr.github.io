@@ -13,7 +13,7 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 \* Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'une bonne citation.
 
-## Quotes
+## Citations
 > Quand on écrit une nouvelle, le budget est illimité.
 
 — Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
