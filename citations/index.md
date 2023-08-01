@@ -9,12 +9,11 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 1. Que je sois d'accord ou non avec la citation[^1].
 1. Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais. Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution[^2].
 1. Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes[^3].
-1. La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées[^4].
+1. La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées.
 
 [^1]: Par exemple, celles de Dijkstra ou San Juan de la Cruz.
 [^2]: Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
 [^3]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
-[^4]: J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment. Par ailleurs, comprendre ce qui pouvait m'intéresser hier dans une citation que je juge médiocre aujourd'hui est un exercice que je trouve assez intéressant.
 
 ## Citations
 
