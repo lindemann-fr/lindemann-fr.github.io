@@ -25,7 +25,9 @@ En milieu normalement éclairé:
 * en haut: scène perçue avec une vision "normale"
 * en bas: la même scène perçue avec une hypersensibilité à la lumière et en l'absence de lunettes
 
-![Images du bureau "normal" vs "hyper-sensible"](./img/cat-on-desk-comparison.png)
+![Images du bureau vision "normale"](./img/cat-on-desk-normal.png)
+
+![Images du bureau vision "hyper-sensible"](./img/cat-on-desk-blinded.png)
 
 
 Lié à l'hypersensibilité à la lumière, je peux avoir des difficultés à repérer les objets ton sur ton, comme mon téléphone noir posé sur une surface noire, par exemple.
