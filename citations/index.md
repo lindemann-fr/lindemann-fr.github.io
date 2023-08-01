@@ -3,7 +3,7 @@
 ## Contexte
 La collecte de citations est l'un de mes plaisirs coupables.
 
-Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir. Il arrive souvent que la barre à passer soit peu élevée.
+Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir au moment où elle me tombe dessus. Il arrive souvent que la barre à passer soit peu élevée.
 
 En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
 * Que je sois d'accord ou non avec la citation. Par exemple, je suis en net désaccord avec celles de Dijkstra ou San Juan de la Cruz.
