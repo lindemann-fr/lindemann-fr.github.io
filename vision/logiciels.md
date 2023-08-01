@@ -17,3 +17,6 @@ J'ai quitté le monde Windows en 2009 pour Linux et plus spécificquement Xubunt
 
 ## Navigateur
 Firefox est plus personnalisable que Chrome.
+
+# Retour
+[Cliquez ici pour retourner à l’index.](index)
