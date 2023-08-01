@@ -10,7 +10,7 @@ La section qui suit introduit brièvement cinq types de déficiences visuelles:
 1. Champ de vision
 1. Perception des couleurs
 
-## Acuité visuelle ( Clarté)
+## Acuité visuelle (Clarté)
 
 L'acuité visuelle est la clarté ou la netteté de la vision. Elle se rapporte aux plus petits détails qu'une personne peut percevoir. Elle dépend généralement du fonctionnement de la partie de la rétine de l'œil et de l'interprétation du cerveau. La mesure de l'acuité visuelle de la distance est basée sur une norme de 20/20 (6/6 en métrique).
 
