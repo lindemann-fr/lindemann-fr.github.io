@@ -59,7 +59,7 @@ En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
 
 > Cesser d'attendre passivement que l'on me choisisse m'a fait passer de l'enfance à l'âge adulte.
 
-— Agnès Jaoui, France Culture (À voix nue, 3/5)
+— Agnès Jaoui, [France Culture, À voix nue, épisode 3/5](https://www.radiofrance.fr/franceculture/podcasts/serie-agnes-jaoui-une-enfant-d-immigres)
 
 <br/>
 
@@ -72,35 +72,35 @@ En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
 
 > Never negotiate with an adversary, except from a position of strength.
 
-― Dwight Eisenhower
+― Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
 
 <br/>
 
 
 > Domination of others in this world often comes through bluff.
 
-― Dwight Eisenhower
+― Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
 
 <br/>
 
 
 > Pounding from an opponent is not to be dreaded as much as constantly living in fear of another.
 
-― Dwight Eisenhower
+― Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
 
 <br/>
 
 
 > Le corps qui s'incline n'est pas une âme qui s'humilie. Au contraire, elle se grandit à s'accommoder aux autres.
 
-― Arte, reportage sur le Ojigi
+― Arte, [reportage sur le Ojigi](https://www.arte.tv/en/videos/093473-005-A/gacha-gacha-5-9/)
 
 <br/>
 
 
 > L'orgueil de ceux qui ne peuvent édifier est de détruire.
 
-― Alexandre Dumas
+― Alexandre Dumas, [Les Mille et Un Fantômes](https://fr.wikipedia.org/wiki/Les_Mille_et_Un_Fant%C3%B4mes)
 
 <br/>
 
