@@ -11,6 +11,11 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 1. Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes[^3].
 1. La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées[^4].
 
+[^1]: Par exemple, celles de Dijkstra ou San Juan de la Cruz.
+[^2]: Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
+[^3]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
+[^4]: J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment. Par ailleurs, comprendre ce qui pouvait m'intéresser hier dans une citation que je juge médiocre aujourd'hui est un exercice que je trouve assez intéressant.
+
 ## Citations
 
 > Ich mag es nicht, wenn mir ein gutes Wort vorenthalten wird.
@@ -794,10 +799,3 @@ among people ― that person is headed for higher earning power.
 > It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
 
 ― Alan Turing
-
-<br/>
-
-[^1]: Par exemple, celles de Dijkstra ou San Juan de la Cruz.
-[^2]: Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
-[^3]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
-[^4]: J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment. Par ailleurs, comprendre ce qui pouvait m'intéresser hier dans une citation que je juge médiocre aujourd'hui est un exercice que je trouve assez intéressant.
