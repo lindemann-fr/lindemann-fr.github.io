@@ -11,14 +11,9 @@ En conséquence, les critères suivants n'ont **__pas__** été pris en compte :
 * Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes[^3].
 * La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées[^4].
 
-
-
 [^1]: Par exemple, celles de Dijkstra ou San Juan de la Cruz.
-
-[^2]: Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution.
-
+[^2]: Bien sûr, contactez-moi si vous avez la preuve d'une mauvaise attribution. Sauf si la conséquence est de retirer une citation à Albert Einstein. Je ne laisse personne priver Albert d'un bon mot.
 [^3]: Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
-
 [^4]: J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment. 
 
 ## Citations
