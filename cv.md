@@ -1,7 +1,7 @@
 # Profil LinkedIn
-Vous serez redirigé.e.s vers mon profil dans quelques secondes.
+Cette page vous redirigera automatiquement vers mon profil dans quelques secondes.
 
-Vous pouvez y accéder tout de suite [en cliquant ici](https://www.linkedin.com/in/mlindemann/).
+Vous pouvez vous y rendre tout de suite [en cliquant ici](https://www.linkedin.com/in/mlindemann/).
 
 <html>
   <head>
