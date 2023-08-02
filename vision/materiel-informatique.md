@@ -1,9 +1,23 @@
 # Matériel informatique
 
 ## Écran
-Pour remplacer deux écrans "plats" de 14" vieillissants, au contraste et à la profondeur de noir médiocres, je cherchais un écran unique, incurvé, de 34" ou plus, avec de bons contrastes et une excellente profondeur de noir.
+Pour remplacer deux écrans "droits" de 14" vieillissants, au contraste et à la profondeur de noir médiocres, je cherchais un écran unique avec les caractéristiques suivantes:
+* dalle VA [[guide](https://www.materiel.net/guide-achat/g10-les-ecrans-pc/5297/)]
+* contraste statique de 2500:1 ou plus [[guide](https://leclaireur.fnac.com/article/2146-technologie-hdr-on-vous-explique-tout/)]
+* incurvé
+* environ 34"
 
-Après lecture de quelques comparatifs en ligne, j'hésitais entre le [Huawei Mateview GT 34"](https://consumer.huawei.com/fr/monitors/mateview-gt) et les gammes [Samsung](https://www.samsung.com/fr/monitors/curved/). La décision finale s'est jouée sur la possibilité d'acquérir le Huawei en solde, ainsi que sur quelques éléments de second ordre, tels que l'empiètement du support sur le bureau.
+Après lecture de quelques comparatifs en ligne, j'hésitais entre:
+* le [Huawei Mateview GT 34"]([https://consumer.huawei.com/fr/monitors/mateview-gt](https://consumer.huawei.com/fr/monitors/mateview-gt/specs/))
+  * luminosité: 350 cd/m²
+  * contraste statique: 4000:1
+  * résolution: 3440 x 1440
+* le [Samsung Odyssey G5 32"](https://www.samsung.com/fr/monitors/gaming/odyssey-g5-g55a-32-inch-165hz-1ms-ls32ag550epxen/#specs).
+  * luminosité: 300 cd/m²
+  * contraste statique: 2500:1
+  * résolution: 2560 x 1440
+
+La décision finale, en faveur du Huawei, s'est basée sur le contraste, la résolution et l'opportunité d'acquérir le Huawei en solde.
 
 ![Écran Huawei Mateview GT 34](./img/huawei.png)
 
