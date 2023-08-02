@@ -2,9 +2,9 @@
 
 ## Qui
 
-Je suis un mari et le père de deux enfants.
+Je suis un mari et père de deux enfants.
 
-Je suis un ingénieur et un entrepreneur spécialisé en informatique scientifique.
+Je suis un ingénieur et un entrepreneur.
 
 Je suis né en France au début des années 1980.
 
