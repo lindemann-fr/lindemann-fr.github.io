@@ -8,10 +8,10 @@ J'ai quitté le monde Windows en 2009 pour [Linux](https://www.leparisien.fr/gui
 
 ### Si vous venez du monde Windows
 Si vous avez des connaissances en informatique ou si vous pouvez vous faire aider par quelqu'un, il est possible d'essayer Linux sur un ordinateur Windows, sans risque de "casser" quoi que ce soit sur l'ordinateur. Pour en savoir plus, jetez un oeil à [ces instructions](https://doc.ubuntu-fr.org/live_usb). Si vous voulez essayer Xubuntu, vous devrez simplement:
-1. Télécharger un fichier .iso, appelé "image", qui contient tout le nécessaire pour faire fonctionner l'ordinateur sous Linux
+1. Télécharger un fichier `.iso`, appelé "image", qui contient tout le nécessaire pour faire fonctionner l'ordinateur sous Linux
    * Téléchargez [le fichier le plus récent parmi ceux marqués "LTS"](https://xubuntu.fr/) (pour long-term support). Ce sont les versions auxquelles aucune mise à jour lourde ne sera imposée pendant 3 ans
-   * Au moment d'écrire ces lignes, mon ordinateur tourne sous Xubuntu 23.04 LTS
-3. Installer ce fichier .iso sur une clef USB en suivant [les instructions](https://doc.ubuntu-fr.org/live_usb) mentionnées plus haut.
+   * Au moment d'écrire ces lignes, mon ordinateur tourne sous Xubuntu 23.04
+3. Installer ce fichier `.iso` sur une clef USB en suivant [les instructions](https://doc.ubuntu-fr.org/live_usb) mentionnées plus haut.
 
 Ne lisez les sections suivantes que si votre ordinateur fonctionne sous Linux:
 * Choix du thème
