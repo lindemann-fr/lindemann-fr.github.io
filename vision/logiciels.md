@@ -74,8 +74,6 @@ Essayez différents styles pour décider celui qui vous convient le mieux. Perso
 #### Police des titres
 Profitez-en également pour choisir une taille et une police de titre à votre goût. Par exemple, j'ai remplacé `Noto Sans Bold` par `Noto Sans Regular`, qui est plus fine et produit donc moins de "surface lettrée blanche" éblouissante.
 
-![ALT+F2 Gestionnaire des fenêtres](img/alt-f2-xfwm-settings.png)
-
 ### Barre de menu (Tableau de bord)
 Nous allons ici personnaliser l'apparence de la barre de menu située en haut ou en bas de votre écran. Cette barre contient le plus souvent le menu `Démarrer`, une horloge, une zone de notification, etc. Dans XFCE, cette barre de menu s'appelle "Tableau de bord".
 
