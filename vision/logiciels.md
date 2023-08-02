@@ -29,6 +29,15 @@ Ne lisez les sections suivantes que si votre environnement de bureau est [XFCE](
 
 Les sections Jeu d'icônes et Navigateur sont en revanche susceptibles de vous intéresser même si vous utilisez un autre environnement de bureau.
 
+### Jeu d'icônes
+J'utilise depuis longtemps le jeu d'icônes Faenza. Il propose plusieurs jeux différents compatibles avec des thèmes sombres ("dark"), très sombres ("darker") et très très sombres ("darkest").
+Pour l'installer, lancer un terminal et saisir:
+```
+sudo add-apt-repository ppa:tiheum/equinox
+
+sudo apt-get update && sudo apt-get install faenza-icon-theme
+```
+
 ### Choix du thème
 Cette section suppose que vous utilisez Linux avec l'environnement de bureau [XFCE](https://www.xfce.org/?lang=fr). C'est le cas si vous utilisez Xubuntu (dont le nom signifie "[Ubuntu](https://www.ubuntu-fr.org/) avec XFCE").
 
@@ -44,13 +53,14 @@ Je vous conseille de choisir le style `Adwaita-sombre`. D'après mon expérience
 
 ![Personnalisation du style dans XFCE](img/xfce-style.png)
 
+Dans la même fenêtre "Apparence", ouvrez ensuite l'onglet "Icônes" et sélectionnez un jeu d'icônes à votre goût. Je vous conseille Faenza Darkest, qui ressort bien avec le style `Adwaita-sombre`.
+
+![Personnalisation des icones dans XFCE](img/xfce-icones.png)
+
 ### Gestionnaire de fenêtres
 Style: Greybird-dark-accessibility
 
 Title: replace Noto Sans Bold with Noto Sans Regular
-
-### Jeu d'icônes
-Faenza (comes with multiple dark sets)
 
 ### Barre de menu
 
