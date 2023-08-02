@@ -1,7 +1,9 @@
 Cette page présente les logciels que j'utilise, avec ou sans personnalisation, pour m'aider à mieux supporter l'exposition aux écrans d'ordinateur malgré mon hypersensibilité à la lumière.
 
 # Système d'exploitation
-J'ai quitté le monde Windows en 2009 pour [Linux](https://www.leparisien.fr/guide-shopping/pratique/quelle-difference-entre-linux-windows-et-mac-19-11-2019-8196654.php), et plus précisément [Xubuntu](https://xubuntu.fr/), dont je suis extrêmement satisfait. Avec quelques connaissances informatiques, Linux permet de personnaliser à peu près n'importe quel détail de l'expérience utilisateur, en particulier l'apparence. C'est particulièrement pratique dans ma situation.
+J'ai quitté le monde Windows en 2009 pour [Linux](https://www.leparisien.fr/guide-shopping/pratique/quelle-difference-entre-linux-windows-et-mac-19-11-2019-8196654.php), et plus précisément [Xubuntu](https://xubuntu.fr/), dont je suis extrêmement satisfait. Avec quelques connaissances informatiques, Linux permet de personnaliser à peu près n'importe quel détail de l'expérience utilisateur, en particulier l'apparence. C'est particulièrement pratique lorsque l'on vit avec une déficience visuelle.
+
+Cette page suppose soit que vous avez Linux installé sur votre ordinateur, soit que vous souhaitez essayer, seul ou accompagné par quelqu'un ayant des compétences en informatique.
 
 ## Si votre ordinateur fonctionne avec Windows ou Mac
 Si vous avez des connaissances en informatique ou si vous pouvez vous faire aider par quelqu'un, il est possible d'essayer Linux sur un ordinateur Windows ou Mac, sans risque de "casser" quoi que ce soit sur votre ordinateur. Pour en savoir plus, jetez un oeil à [ces instructions](https://doc.ubuntu-fr.org/live_usb). Si vous n'en comprenez pas le contenu, mieux vaut ne pas essayer Linux.
