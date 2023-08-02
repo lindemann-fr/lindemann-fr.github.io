@@ -51,7 +51,8 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 
 ## Informatique
 * [Matériel](materiel-informatique)
-* [Logiciels](logiciels)
+* [Système d'exploitation](linux)
+* [Navigateur internet](navigateur)
 
 ## Téléphone
 * [Modèle](natel)
