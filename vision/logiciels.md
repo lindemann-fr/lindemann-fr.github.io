@@ -2,9 +2,11 @@ Cette page présente les logciels que j'utilise, avec ou sans personnalisation, 
 
 # Logiciels
 ## Système d'exploitation
-J'ai quitté le monde Windows en 2009 pour Linux et plus spécificquement Xubuntu dont je suis extrêmement satisfait.
+J'ai quitté le monde Windows en 2009 pour [Linux](https://www.leparisien.fr/guide-shopping/pratique/quelle-difference-entre-linux-windows-et-mac-19-11-2019-8196654.php), et plus précisément [Xubuntu](https://xubuntu.fr/), dont je suis extrêmement satisfait. Avec quelques connaissances informatiques de base, Linux permet de personnaliser à peu près n'importe quel détail de l'expérience utilisateur, en particulier l'apparence.
 
-- Linux is way more customizable than WIndows (I don't know Mac)
+Il est possible d'essayer Linux sur un ordinateur Windows, sans risque de "casser" quoi que ce soit sur l'ordinateur. Pour en savoir plus, rendez-vous sur https://xubuntu.fr.
+
+### Choix du thème
 - Theme: Greybird-dark-accessibility
 - Title: replace Noto Sans Bold with Noto Sans Regular
 - Icons: Faenza (comes with multiple dark sets)
