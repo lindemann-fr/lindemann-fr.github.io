@@ -32,7 +32,14 @@ Les section Jeu d'icônes et Navigateur sont en revanche susceptibles de vous in
 ### Choix du thème
 Cette section suppose que vous utilisez Linux avec l'environnement de bureau [XFCE](https://www.xfce.org/?lang=fr). C'est le cas si vous utilisez Xubuntu (dont le nom signifie "[Ubuntu](https://www.ubuntu-fr.org/) avec XFCE").
 
-Par défaut, XFCE propose plusieurs thèmes sombres, c'est-à-dire où les textes sont affichés en blanc sur fond sombre. Pour choisir un thème, allez dans: `Démarrer > Paramètres > Apparence > Style` ou appuyez simultanément sur les touches `ALT` et `F2` pour ouvrir une fenêtre dans laquelle vous devrez saisir `xfce4-appearance-settings` (en fait, saisir `appear` devrait suffire, l'autocomplétion fera le reste). Mon conseil est de choisir le style `Adwaita-sombre`. Une alternative est `Greybird-dark`.
+Par défaut, XFCE propose plusieurs thèmes sombres, c'est-à-dire où les textes sont affichés en blanc sur fond sombre.
+
+Pour choisir un thème, ouvrez le menu `Apparence`. Pour cela, il existe deux options:
+1. Allez dans: `Démarrer > Paramètres > Apparence > Style`.
+2. Appuyez simultanément sur les touches `ALT` et `F2` et tapez `xfce4-appearance-settings` (en fait, saisir `appear` devrait suffire, l'autocomplétion fera le reste).
+![Liste des applications](img/alt-f2.png)
+
+Mon conseil est de choisir le style `Adwaita-sombre`. Une alternative est `Greybird-dark`.
  ![Personnalisation du style dans XFCE](img/xfce-style.png)
 
 
