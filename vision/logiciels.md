@@ -58,9 +58,15 @@ Dans la même fenêtre "Apparence", ouvrez ensuite l'onglet "Icônes" et sélect
 ![Personnalisation des icones dans XFCE](img/xfce-icones.png)
 
 ### Gestionnaire de fenêtres
-Style: Greybird-dark-accessibility
+Nous allons maintenant choisir l'apparence de la barre en haut des fenêtres. Ceci se fait dans le menu `Gestionnaire de fenêtres`. Là encore, il existe deux options:
+1. Allez dans: `Démarrer > Paramètres > Gestionnaire de fenêtres > Style`.
+2. Appuyez simultanément sur les touches `ALT` et `F2` et tapez `xfwm4-settings`.
 
-Title: replace Noto Sans Bold with Noto Sans Regular
+Essayez différents thèmes pour décider celui qui vous convient le mieux. Personnellement, j'ai choisi `Greybird-dark-accessibility`.
+
+Profitez-en également pour choisir une taille et une police de titre à votre goût. Par exemple, j'ai remplacé `Noto Sans Bold` par `Noto Sans Regular`, qui est plus fine et produit donc moins de "surface lettrée blanche" éblouissante.
+
+![Liste des applications](img/alt-f2=xfwm-settings.png)
 
 ### Barre de menu
 
