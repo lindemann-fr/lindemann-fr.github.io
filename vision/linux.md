@@ -56,7 +56,7 @@ Pour choisir un style, ouvrez le menu `Apparence`. Pour cela, il existe deux opt
 
 ![Liste des applications](img/alt-f2.png)
 
-Je vous conseille de choisir le style `Adwaita-sombre`. D'après mon expérience, il offre un contraste légèrement supérieur à celui du style `Greybird-dark`.
+Je vous conseille de choisir le style `Adwaita-sombre`. D'après mon expérience, il offre un confort visuel légèrement supérieur à celui du style `Greybird-dark`.
 
 ![Personnalisation du style dans XFCE](img/xfce-style.png)
 
@@ -95,10 +95,10 @@ Pour atteindre le menu permettant de personnaliser le tableau de bord, il existe
 ![Tableau de bord > Apparence](img/tableau-de-bord-affichage.png)
 
 1. Commencez par ajuster la taille du menu pour rendre son contenu plus visible et lisible. Je n'hésite pas à afficher une barre de 50px de haut et sur toute la largeur de l'écran.
-2. Comme la logique qui masque le tableau de bord peut être irritante au début, je vous conseille aussi de mettre `Masquer automatiquement le tableau de bord: JAMAIS`
+2. Comme la logique qui masque le tableau de bord peut être irritante au début, je vous conseille aussi de mettre `Masquer automatiquement le tableau de bord: JAMAIS`. Vous pourrez le changer plus tard.
 3. Par défaut, le tableau de bord est une barre horizontale. Si vous souhaitez changer l'orientation, faites-le dans le champ `Mode` en haut de l'onglet.
-4. Pour déplacer le menu, décochez la case `Verrouiller le tableau de bord`. Des poignées apparaissent alors aux extrêmités du tableau de bord. Cliquez dessus pour le déplacer.
-5. Si vous souhaitez déplacer le tableau de bord vers un autre écran, sélectionnez `Sortie: Automatique` en haut de l'onglet.
+4. Pour déplacer le menu, décochez la case `Verrouiller le tableau de bord`. Des poignées apparaissent alors aux extrêmités du tableau de bord. Cliquez sur une des poignées pour déplacer le tableau de bord.
+5. Si vous souhaitez déplacer le tableau de bord vers un autre écran, sélectionnez préalablement `Sortie: Automatique` en haut de l'onglet.
 6. Une fois que sa place vous convient, pensez à vérouiller le tableau de bord en cochant la case `Verrouiller le tableau de bord`.
 
 ### Dans l'onlet `Apparence`
@@ -112,7 +112,7 @@ Pour atteindre le menu permettant de personnaliser le tableau de bord, il existe
 Une fois satisfait du résultat, fermez la fenètre de configuration du tableau de bord.
 
 ## Horloge
-Nous allons donner à l'horloge du tanleau de bord l'apparence d'un grand écran LCD. Pour cela, faites un clic-droit sur l'horloge puis cliquez sur `Propriétés`. Je vous propose de vous inspirer des réglages suivants:
+Nous allons donner à l'horloge du tanleau de bord l'apparence d'un grand écran LCD. Pour cela, faites un clic-droit sur l'horloge puis cliquez sur `Propriétés`. Voici mes réglages:
 
 ![Horloge](img/horloge.png)
 
