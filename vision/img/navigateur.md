@@ -1,2 +1,0 @@
-# Navigateur
-Firefox > Chrome :)
