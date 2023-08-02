@@ -184,7 +184,7 @@ En conséquence, les critères suivants n'ont pas été pris en compte :
 
 > Franchement, qui peut affirmer qu'il comprend toutes les paroles d'une chanson d'Alain Bashung ?
 
-― Patrick Boucheron, professeur au collège de France, chaire « Histoire des pouvoirs en Europe occidentale, XIIIe–XVIe siècles » (source: Les Nuits de France Culture)
+― Patrick Boucheron, professeur au collège de France, chaire « Histoire des pouvoirs en Europe occidentale, XIIIe–XVIe siècles » (source: [Les Nuits de France Culture](https://www.radiofrance.fr/franceculture/podcasts/les-cours-du-college-de-france/les-cours-du-college-de-france-emission-du-vendredi-17-septembre-2021-4999895))
 
 <br/>
 
