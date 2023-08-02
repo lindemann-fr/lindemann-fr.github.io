@@ -44,16 +44,15 @@ Je vous conseille de choisir le style `Adwaita-sombre`. D'après mon expérience
 
 ![Personnalisation du style dans XFCE](img/xfce-style.png)
 
-
-Greybird-dark-accessibility
-- Title: replace Noto Sans Bold with Noto Sans Regular
-- Icons: Faenza (comes with multiple dark sets)
-
-### Barre de menu
-
 ### Gestionnaire de fenêtres
+Style: Greybird-dark-accessibility
+
+Title: replace Noto Sans Bold with Noto Sans Regular
 
 ### Jeu d'icônes
+Faenza (comes with multiple dark sets)
+
+### Barre de menu
 
 ## Navigateur
 J'ai utilisé 
