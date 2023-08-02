@@ -37,10 +37,12 @@ Par défaut, XFCE propose plusieurs thèmes sombres, c'est-à-dire où les texte
 Pour choisir un thème, ouvrez le menu `Apparence`. Pour cela, il existe deux options:
 1. Allez dans: `Démarrer > Paramètres > Apparence > Style`.
 2. Appuyez simultanément sur les touches `ALT` et `F2` et tapez `xfce4-appearance-settings` (en fait, saisir `appear` devrait suffire, l'autocomplétion fera le reste).
+
 ![Liste des applications](img/alt-f2.png)
 
-Mon conseil est de choisir le style `Adwaita-sombre`. Une alternative est `Greybird-dark`.
- ![Personnalisation du style dans XFCE](img/xfce-style.png)
+Je vous conseille de choisir le style `Adwaita-sombre`. D'après mon expérience, il offre un contraste légèrement supérieur à celui du style `Greybird-dark`.
+
+![Personnalisation du style dans XFCE](img/xfce-style.png)
 
 
 Greybird-dark-accessibility
