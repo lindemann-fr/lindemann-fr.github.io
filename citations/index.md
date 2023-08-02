@@ -9,7 +9,7 @@ En conséquence, les critères suivants n'ont pas été pris en compte :
 * Que je sois d'accord ou non avec la citation.
 * Que la citation soit apocryphe ou non, même si j'ajoute la source lorsque je la connais.
 * Que l'auteur soit fictif ou non. Vampires et super-héros font parfois d'assez bons philosophes.
-* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées. Mon goût en matière de nourriture intellectuelle évolue du fil du temps. Par ailleurs, comprendre ce qui m'intéressait hier dans une citation que je trouve médiocre aujourd'hui est un exercice très instructif.
+* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
 
 ## Citations
 
