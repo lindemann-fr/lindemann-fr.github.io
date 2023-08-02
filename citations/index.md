@@ -6,12 +6,10 @@ La collecte de citations est l'un de mes plaisirs coupables.
 Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir au moment où elle me tombe dessus. Il arrive souvent que la barre à passer soit peu élevée.
 
 En conséquence, les critères suivants n'ont pas été pris en compte :
-* Que je sois d'accord ou non avec la citation[^1].
-* Que la citation soit apocryphe ou non, même si j'ajoute les sources lorsque je les connais.
-* Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes. Je le répète, mes critères d'appréciation ne sont pas toujours très élevés.
-* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées. J'accepte que mon goût en matière de nourriture intellectuelle varie fréquemment.  Par ailleurs, comprendre ce qui m'intéressait hier dans une citation que je trouve médiocre aujourd'hui est un exercice très instructif.
-
-[^1]: Par exemple, je suis en net désaccord avec celles de Dijkstra ou San Juan de la Cruz.
+* Que je sois d'accord ou non avec la citation.
+* Que la citation soit apocryphe ou non, même si j'ajoute la source lorsque je la connais.
+* Que l'auteur soit fictif ou non. Les vampires et les super-héros font parfois d'assez bons philosophes.
+* La qualité de la déclaration. Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées. Mon goût en matière de nourriture intellectuelle évolue du fil du temps. Par ailleurs, comprendre ce qui m'intéressait hier dans une citation que je trouve médiocre aujourd'hui est un exercice très instructif.
 
 ## Citations
 
