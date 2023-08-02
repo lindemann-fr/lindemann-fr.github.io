@@ -14,18 +14,18 @@ Si vous avez des connaissances en informatique ou si vous pouvez vous faire aide
 3. Installer ce fichier `.iso` sur une clef USB en suivant [les instructions](https://doc.ubuntu-fr.org/live_usb) mentionnées plus haut.
 
 Ne lisez les sections suivantes que si votre ordinateur fonctionne sous Linux:
-* Choix du style
-* Barre de menu
-* Gestionnaire de fenêtres
 * Jeu d'icônes
+* Choix du style
+* Gestionnaire de fenêtres
+* Barre de menu
 
 La section Navigateur est en revanche susceptible de vous intéresser même si vous utilisez Windows ou Mac.
 
 ### Si vous utilisez déjà Linux
-Ne lisez les sections suivantes que si votre environnement de bureau est [XFCE](https://www.xfce.org/?lang=fr):
+Ne lisez les sections suivantes que si votre environnement de bureau est [XFCE](https://www.xfce.org/?lang=fr) ou si vous savez comment installer les thèmes mentionés:
 * Choix du style
-* Barre de menu
 * Gestionnaire de fenêtres
+* Barre de menu
 
 Les sections Jeu d'icônes et Navigateur sont en revanche susceptibles de vous intéresser même si vous utilisez un autre environnement de bureau.
 
@@ -37,6 +37,7 @@ sudo add-apt-repository ppa:tiheum/equinox
 
 sudo apt-get update && sudo apt-get install faenza-icon-theme
 ```
+Lisez la section suivante [Choix du style](#Choix%20du%20style) pour utiliser ces icônes.
 
 ### Choix du style
 Cette section suppose que vous utilisez Linux avec l'environnement de bureau [XFCE](https://www.xfce.org/?lang=fr). C'est le cas si vous utilisez Xubuntu (dont le nom signifie "[Ubuntu](https://www.ubuntu-fr.org/) avec XFCE").
