@@ -40,7 +40,7 @@ sudo add-apt-repository ppa:tiheum/equinox
 
 sudo apt-get update && sudo apt-get install faenza-icon-theme
 ```
-Lisez la section suivante [Choix du style](#Choix%20du%20style) pour utiliser ces icônes.
+Lisez la section suivante [Choix du style](#choix-du-style) pour utiliser ces icônes.
 
 ### Choix du style
 Cette section suppose que vous utilisez Linux avec l'environnement de bureau [XFCE](https://www.xfce.org/?lang=fr). C'est le cas si vous utilisez Xubuntu (dont le nom signifie "[Ubuntu](https://www.ubuntu-fr.org/) avec XFCE").
