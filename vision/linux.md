@@ -101,7 +101,7 @@ Pour atteindre le menu permettant de personnaliser le tableau de bord, il existe
 5. Si vous souhaitez déplacer le tableau de bord vers un autre écran, sélectionnez préalablement `Sortie: Automatique` en haut de l'onglet.
 6. Une fois que sa place vous convient, pensez à vérouiller le tableau de bord en cochant la case `Verrouiller le tableau de bord`.
 
-### Dans l'onlet `Apparence`
+### Dans l'onglet `Apparence`
 
 ![Tableau de bord > Apparence](img/tableau-de-bord-apparence.png)
 
@@ -112,7 +112,7 @@ Pour atteindre le menu permettant de personnaliser le tableau de bord, il existe
 Une fois satisfait du résultat, fermez la fenètre de configuration du tableau de bord.
 
 ## Horloge
-Nous allons donner à l'horloge du tanleau de bord l'apparence d'un grand écran LCD. Pour cela, faites un clic-droit sur l'horloge puis cliquez sur `Propriétés`. Voici mes réglages:
+Nous allons donner à l'horloge du tableau de bord l'apparence d'un grand écran LCD. Pour cela, faites un clic-droit sur l'horloge puis cliquez sur `Propriétés`. Voici mes réglages:
 
 ![Horloge](img/horloge.png)
 
