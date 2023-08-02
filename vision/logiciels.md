@@ -14,7 +14,7 @@ Si vous avez des connaissances en informatique ou si vous pouvez vous faire aide
 3. Installer ce fichier `.iso` sur une clef USB en suivant [les instructions](https://doc.ubuntu-fr.org/live_usb) mentionnées plus haut.
 
 Ne lisez les sections suivantes que si votre ordinateur fonctionne sous Linux:
-* Choix du thème
+* Choix du style
 * Barre de menu
 * Gestionnaire de fenêtres
 * Jeu d'icônes
@@ -23,14 +23,14 @@ La section Navigateur est en revanche susceptible de vous intéresser même si v
 
 ### Si vous utilisez déjà Linux
 Ne lisez les sections suivantes que si votre environnement de bureau est [XFCE](https://www.xfce.org/?lang=fr):
-* Choix du thème
+* Choix du style
 * Barre de menu
 * Gestionnaire de fenêtres
 
 Les sections Jeu d'icônes et Navigateur sont en revanche susceptibles de vous intéresser même si vous utilisez un autre environnement de bureau.
 
 ### Jeu d'icônes
-J'utilise depuis longtemps le jeu d'icônes Faenza. Il propose plusieurs jeux différents compatibles avec des thèmes sombres ("dark"), très sombres ("darker") et très très sombres ("darkest").
+J'utilise depuis longtemps le jeu d'icônes Faenza. Il propose plusieurs jeux différents compatibles avec des styles sombres ("dark"), très sombres ("darker") et très très sombres ("darkest").
 Pour l'installer, lancer un terminal et saisir:
 ```
 sudo add-apt-repository ppa:tiheum/equinox
@@ -38,12 +38,12 @@ sudo add-apt-repository ppa:tiheum/equinox
 sudo apt-get update && sudo apt-get install faenza-icon-theme
 ```
 
-### Choix du thème
+### Choix du style
 Cette section suppose que vous utilisez Linux avec l'environnement de bureau [XFCE](https://www.xfce.org/?lang=fr). C'est le cas si vous utilisez Xubuntu (dont le nom signifie "[Ubuntu](https://www.ubuntu-fr.org/) avec XFCE").
 
-Par défaut, XFCE propose plusieurs thèmes sombres, c'est-à-dire où les textes sont affichés en blanc sur fond sombre.
+Par défaut, XFCE propose plusieurs styles sombres, c'est-à-dire où les textes sont affichés en blanc sur fond sombre.
 
-Pour choisir un thème, ouvrez le menu `Apparence`. Pour cela, il existe deux options:
+Pour choisir un style, ouvrez le menu `Apparence`. Pour cela, il existe deux options:
 1. Allez dans: `Démarrer > Paramètres > Apparence > Style`.
 2. Appuyez simultanément sur les touches `ALT` et `F2` et tapez `xfce4-appearance-settings` (en fait, saisir `appear` devrait suffire, l'autocomplétion fera le reste).
 
@@ -62,11 +62,11 @@ Nous allons maintenant choisir l'apparence de la barre en haut des fenêtres. Ce
 1. Allez dans: `Démarrer > Paramètres > Gestionnaire de fenêtres > Style`.
 2. Appuyez simultanément sur les touches `ALT` et `F2` et tapez `xfwm4-settings`.
 
-Essayez différents thèmes pour décider celui qui vous convient le mieux. Personnellement, j'ai choisi `Greybird-dark-accessibility`.
+Essayez différents styles pour décider celui qui vous convient le mieux. Personnellement, j'ai choisi `Greybird-dark-accessibility`.
 
 Profitez-en également pour choisir une taille et une police de titre à votre goût. Par exemple, j'ai remplacé `Noto Sans Bold` par `Noto Sans Regular`, qui est plus fine et produit donc moins de "surface lettrée blanche" éblouissante.
 
-![Liste des applications](img/alt-f2=xfwm-settings.png)
+![Liste des applications](img/alt-f2-xfwm-settings.png)
 
 ### Barre de menu
 
