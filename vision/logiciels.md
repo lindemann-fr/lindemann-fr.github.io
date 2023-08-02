@@ -31,6 +31,9 @@ Les sections Jeu d'icônes et Navigateur sont en revanche susceptibles de vous i
 
 ### Jeu d'icônes
 J'utilise depuis longtemps le jeu d'icônes Faenza. Il propose plusieurs jeux différents compatibles avec des styles sombres ("dark"), très sombres ("darker") et très très sombres ("darkest").
+
+![Icones Faenza](img/faenza-samples.png)
+
 Pour l'installer, lancer un terminal et saisir:
 ```
 sudo add-apt-repository ppa:tiheum/equinox
