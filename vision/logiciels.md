@@ -83,7 +83,7 @@ Pour atteindre le menu permettant de personnaliser le tableau de bord, il existe
 
 ![ALT+F2 Tableau de bord](img/alt-f2-panel-settings.png)
 
-Dans l'onglet `Affichage`
+#### Dans l'onglet `Affichage`
 
 ![Tableau de bord > Apparence](img/tableau-de-bord-affichage.png)
 
@@ -94,7 +94,7 @@ Dans l'onglet `Affichage`
 5. Si vous souhaitez déplacer le tableau de bord vers un autre écran, sélectionnez `Sortie: Automatique` en haut de l'onglet.
 6. Une fois que sa place vous convient, pensez à vérouiller le tableau de bord en cochant la case `Verrouiller le tableau de bord`.
 
-Dans l'onlet `Apparence`
+#### Dans l'onlet `Apparence`
 
 ![Tableau de bord > Apparence](img/tableau-de-bord-apparence.png)
 
