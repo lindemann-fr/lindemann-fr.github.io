@@ -11,17 +11,19 @@ Pour soulager ma lecture sur écran, j'ai créé le modèle ci-dessous. Vous pou
 
 ### Références des couleurs
 Les couleurs utilisées sont les suivantes:
-* Fond: `#232323`
+* Fond gris foncé, presque noir: `#232323`
   * Configurable depuis `Fichier > Configuration de la page > Couleur de la page`.
   * Si vous souhaitez que cette couleur soit utilisée par défaut, cliquez sur "Définir comme valeurs par défaut".
-* Titres: `#666666`
+* Titres gris moyen: `#666666`
   * Ce n'est autre que le `Gris 3`, de la palette.
 ![Palette Google Doc](img/gdoc-palette.png)
 * Texte normal: `#7b9bbb`
   * Configurable depuis la palette.
   * La couleur `#7b9bbb` est une version moins saturée du `Cyan Clair 1` de la palette.
 
-Si vous souhaitez que les couleurs de titre et de texte normal soient utilisées par défaut, ouvrez le menu `Format > Style de paragraphe > Options > Enregistrer en tant que mes styles par défaut`.
+J'ai fait plusieurs essais et ces couleurs sont celles qui me conviennet le mieux en définitive. Je vous conseille bien sûr de faire vos propres essais pour identifier les couleurs qui vous offrent le meilleur confort de lecture.
+
+Une fois cela fait, si vous souhaitez que ces couleurs soient utilisées par défaut, ouvrez le menu `Format > Style de paragraphe > Options > Enregistrer en tant que mes styles par défaut`. La prochaine fois que vous créerez un document vierge, ce sont ces couleurs qui seront utilisées automatiquement.
 
 # Retour
 [Cliquez ici pour retourner à l’index.](index)
