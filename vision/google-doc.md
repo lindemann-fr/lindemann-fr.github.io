@@ -23,7 +23,7 @@ Les couleurs utilisées sont les suivantes:
 
 J'ai fait plusieurs essais et ces couleurs sont celles qui me conviennent le mieux. Je vous conseille bien sûr de faire vos propres essais pour identifier les couleurs qui vous offrent le meilleur confort de lecture.
 
-Une fois cela fait, si vous souhaitez que ces couleurs soient utilisées par défaut, ouvrez le menu `Format > Style de paragraphe > Options > Enregistrer en tant que mes styles par défaut`. La prochaine fois que vous créerez un document vierge, ce sont ces couleurs qui seront utilisées automatiquement.
+Une fois cela fait, si vous souhaitez que ces couleurs soient utilisées par défaut, ouvrez le menu `Format > Style de paragraphe > Options > Enregistrer en tant que mes styles par défaut`. Les prochains documents vierges que vous créerez utiliseront automatiquement ces couleurs.
 
 # Retour
 [Cliquez ici pour retourner à l’index.](index)
