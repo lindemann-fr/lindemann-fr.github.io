@@ -53,6 +53,7 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 * [Matériel](materiel-informatique)
 * [Système d'exploitation](linux)
 * [Navigateur internet](navigateur)
+* [Google Docs](google-doc)
 
 ## Téléphone
 * [Modèle](natel)
